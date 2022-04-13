@@ -1,0 +1,18 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2013-01-11 13:26:27" 0 2 0
+"robot soccer" "2013-01-11 13:28:03" 0 1 0
+"robotics mechanics" "2013-01-11 13:28:41" 2 1 0
+"robotics software control" "2013-01-11 13:29:44" 0 1 0
+"robotics software control mechanics" "2013-01-11 13:30:49" 0 1 0
+"robotics software control" "2013-01-11 13:31:11" 1 1 0
+"robot soccer" "2013-01-11 13:32:04" 0 1 0
+"robot soccer electronics" "2013-01-11 13:33:08" 0 1 0
+"robotics electronics" "2013-01-11 13:33:24" 2 4 0
+"robotics algorithm" "2013-01-11 13:37:22" 0 2 0
+"robot soccer" "2013-01-11 13:39:02" 0 2 0
+"robot algorithm" "2013-01-11 13:40:59" 1 1 0
+"robot navigation algorithm" "2013-01-11 13:46:21" 0 1 0
+"cooperative navigation system" "2013-01-11 13:46:44" 0 2 0
+"CNS" "2013-01-11 13:47:26" 0 1 0
+" robotics CNS" "2013-01-11 13:47:34" 0 7 0
+"multi-robot task allocation" "2013-01-11 13:52:48" 1 2 0

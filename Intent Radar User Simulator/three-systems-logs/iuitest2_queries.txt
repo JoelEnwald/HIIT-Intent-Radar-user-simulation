@@ -1,0 +1,16 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2012-10-09 13:41:58" 3 1 0
+"walking robot" "2012-10-09 13:45:01" 3 1 0
+"legged robot" "2012-10-09 13:47:25" 3 1 0
+"robot control" "2012-10-09 13:50:08" 0 1 0
+"robot control review" "2012-10-09 13:50:27" 2 1 0
+"robot control" "2012-10-09 13:51:57" 4 1 0
+"rehabilitation robotics" "2012-10-09 13:53:42" 2 1 0
+"neuro-rehabilitation robotics" "2012-10-09 13:54:43" 3 1 0
+"robotics application" "2012-10-09 13:56:30" 1 1 0
+"industrial automation" "2012-10-09 13:58:16" 0 1 0
+"industrial automation robotics" "2012-10-09 13:58:31" 1 1 0
+"algorithms in robotics overview" "2012-10-09 14:00:18" 1 1 0
+"reinforcement learning robotics" "2012-10-09 14:01:08" 2 1 0
+"reinforcement learning robotics kenji doya" "2012-10-09 14:02:04" 4 1 0
+"vision algorithms robotics" "2012-10-09 14:04:27" 2 1 0

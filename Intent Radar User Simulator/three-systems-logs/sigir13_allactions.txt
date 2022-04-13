@@ -1,0 +1,51 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-10 14:31:09 query-type {robotics}
+2013-01-10 14:32:38 bookmark {Effects of observation of robot-robot communication on human-robot communication} {T Kanda, H Ishiguro, T Ono, M Imai, R Nakatsu} {4fc78f18573ce55d72000baf}
+2013-01-10 14:33:26 bookmark {AI and robotics} {O M Evans} {4fc78f18573ce55d72000bcc}
+2013-01-10 14:35:48 keyword-movement {[man machine interface],local,1.000000} {[industrialization],local,1.000000} {[automation],local,0.961734} {[undergraduate robotics programmes],semilocal,0.000000} {[humanoid robots],local,0.944185} {[swarm engineering],local,1.000000} 
+2013-01-10 14:37:30 query-type {robotics humanoid}
+2013-01-10 14:37:44 bookmark {Open architecture humanoid robotics platform} {F Kanehiro, K Fujiwara, S Kajita, K Yokoi, K Kaneko, H Hirukawa, Y Nakamura, K Yamane} {506c073d573ce5296d000023}
+2013-01-10 14:38:06 bookmark {Behavior-based humanoid robotics} {R A Brooks} {506c073e573ce5296d000063}
+2013-01-10 14:38:13 bookmark {Humanoid robots} {Rodney Brooks} {4fdc2d46573ce541b600103c}
+2013-01-10 14:38:25 bookmark {The anatomy of a humanoid robot} {D W Seward, A Bradshaw, F Margrave} {5071df1a573ce54e280001ed}
+2013-01-10 14:38:42 bookmark {Working collaboratively with humanoid robots} {C Breazeal, A Brooks, D Chilongo, J Gray, G Hoffman, C Kidd, H Lee, J Lieberman, A Lockerd} {5071dc21573ce54e280000c1}
+2013-01-10 14:38:52 query-type {industrial robotics}
+2013-01-10 14:39:20 bookmark {Robotics Industry Forum - 2006} {M Wilson} {4fc78f19573ce55d72000bed}
+2013-01-10 14:40:26 keyword-movement {[control],semilocal,0.000000} {[optical sensor],semilocal,0.000000} {[robot control],semilocal,0.000000} {[models],semilocal,0.000000} {[robot workcell],semilocal,0.000000} {[system],semilocal,0.000000} {[standard],semilocal,0.000000} {[automation],local,0.806229} {[manufacturing],local,1.000000} {[industrial robotics],local,1.000000} 
+2013-01-10 14:41:42 keyword-movement {[manufacturing industries],local,1.000000} {[roth's proof],semilocal,0.000000} {[joint space],semilocal,0.000000} 
+2013-01-10 14:42:08 bookmark {Intelligent manufacturing: Present state and future trends} {P Kopacek} {50eeb6b9573ce5342e0007c6}
+2013-01-10 14:42:40 keyword-movement {[industrial robotics],local,1.000000} {[plastics],semilocal,0.354096} {[manufacturing industries],local,0.324345} {[robotics],local,1.000000} {[manufacturing],semilocal,0.299724} {[welding],semilocal,0.213389} 
+2013-01-10 14:42:52 bookmark {Discrete event and hybrid systems in robotics and automation: An overview} {T M Sobh, B Benhabib} {5071de0f573ce54e28000135}
+2013-01-10 14:43:23 query-type {robotics application}
+2013-01-10 14:44:11 bookmark {Robot applications in the Japanese food industry} {M Hamazawa} {5071df61573ce54e280002ae}
+2013-01-10 14:44:32 bookmark {Designing robot applications for everyday environments} {Sara Ljungblad, Lars Erik Holmquist} {5071df61573ce54e280002b0}
+2013-01-10 14:44:34 bookmark {Wireless robust robot for agricultural applications} {A R Hirakawa, A M Saraiva, C E Cugnasca} {5071df61573ce54e280002af}
+2013-01-10 14:46:12 query-type {robotics application everyday}
+2013-01-10 14:46:50 keyword-movement {[medical robotics],local,1.000000} {[applications],semilocal,0.000000} {[robots],semilocal,0.000000} 
+2013-01-10 14:47:06 bookmark {An application of artificial intelligence to medical robotics} {E Alessandri, A Gasparetto, R V Garcia, R M Bejar} {4fc78f19573ce55d72000c64}
+2013-01-10 14:47:13 bookmark {Robotics in neurosurgery: state of the art and future technological challenges} {L Zamorano, Q Li, S Jain, G Kaur} {4fc78f26573ce55d72000cc8}
+2013-01-10 14:47:59 query-type {robotics algorithms}
+2013-01-10 14:49:01 keyword-movement {[kalman filtering],local,1.000000} 
+2013-01-10 14:49:41 query-type {robotics algorithm}
+2013-01-10 14:50:36 bookmark {A genetic algorithm for robot navigation} {Calaiselvy , F T Yong, L W Ping} {4fdb9549573ce541b6000a8e}
+2013-01-10 14:51:28 keyword-movement {[trajectory],local,0.182600} {[fast algorithms],semilocal,0.887404} {[the fly algorithm],semilocal,0.022949} {[genetic algorithms],local,0.181197} {[genetic algorithm],local,1.000000} 
+2013-01-10 14:52:53 keyword-movement {[location code based quadtree],local,0.314495} {[optimization],local,1.000000} {[genetic algorithms],semilocal,0.000000} {[robot],semilocal,0.928848} {[genetic algorithm],local,0.390688} 
+2013-01-10 14:53:31 keyword-movement {[application],semilocal,0.692663} {[simulated annealing algorithm],semilocal,0.980358} {[obstacle],local,0.765606} {[simulation],local,0.971947} 
+2013-01-10 14:54:40 query-type {robotics algorithm}
+2013-01-10 14:54:55 keyword-movement {[mobile robot],local,0.679826} {[kalman filtering],local,0.984471} 
+2013-01-10 14:55:20 query-type {robotics algorithm}
+2013-01-10 14:56:35 keyword-movement {[optimization],local,1.000000} 
+2013-01-10 14:57:37 query-type {kalman filter}
+2013-01-10 14:57:44 query-type {kalman filter robotics}
+2013-01-10 14:57:59 bookmark {Robot position tracking using Kalman Filter} {O L Casanova, F Alfissima, F Y Machaca} {50eeba1f573ce5342e0008c0}
+2013-01-10 14:58:12 bookmark {Correction Robot pose for SLAM based on Extended Kalman Filter in a Rough Surface Environment} {J Park, S Lee, Joohyun , Park } {50eeba1e573ce5342e0008b8}
+2013-01-10 14:58:13 bookmark {Mobile Robot Localization with Gyroscope and Constrained Kalman Filter} {H Myung, H K Lee, K Choi, S Bang} {50eeb8bd573ce5342e00084c}
+2013-01-10 14:58:26 query-type {robotics simulated annealing}
+2013-01-10 14:58:31 bookmark {Cooperative simulated annealing for path planning in multi-robot systems} {G Sanchez-Ante, F Ramos, J Frausto} {5073465a573ce5519c00021e}
+2013-01-10 14:58:34 bookmark {Mobile Robot Global Path Planning Using Hybrid Modified Simulated Annealing Optimization Algorithm} {Y M Liang, L H Xu} {5072bd59573ce54e2800197f}
+2013-01-10 14:58:36 bookmark {Mobile robot path planning and tracking using simulated annealing and fuzzy logic control} {H Martinez-Alfaro, S Gomez-Garcia} {5072c69f573ce54e28001d7c}
+2013-01-10 14:58:41 bookmark {A simulated annealing heuristic for robotics assembly using the dynamic pick-and-place model} {C T Su, H P Fu} {50eebaf1573ce5342e000930}
+2013-01-10 14:58:51 bookmark {A simulated annealing heuristic for robotics assembly using the dynamic pick-and-place model} {C T Su, H P Fu} {50eebaf1573ce5342e000930}
+2013-01-10 14:59:08 query-type {robotics}
+2013-01-10 14:59:50 keyword-movement {[optimization],semilocal,0.000000} {[artificial intelligence],local,1.000000} 
+2013-01-10 15:01:19 keyword-movement {[robot],local,1.000000} 

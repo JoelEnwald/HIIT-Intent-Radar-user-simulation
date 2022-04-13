@@ -1,0 +1,32 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-08 12:19:57 query-type {Semantic Search}
+2012-10-08 12:21:06 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2012-10-08 12:21:42 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd8573ce54d20000545}
+2012-10-08 12:22:21 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2012-10-08 12:22:34 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2012-10-08 12:22:58 query-type {Semantic Search techniques}
+2012-10-08 12:24:05 bookmark {An effective semantic search technique using ontology} {Jihyun Lee, Jun-Ki Min, Chin-Wan Chung} {4fc75c5d573ce55d720005e4}
+2012-10-08 12:25:50 bookmark {An Effective Document Search Technique by Semantic Relationship Approach} {S Chatvichienchai, K Tanaka} {502e7044573ce57a280000bd}
+2012-10-08 12:26:42 bookmark {Hypergeometric distribution based semantic searching technique} {N. Thakur, S. Gupta} {4fc75c5d573ce55d720005fa}
+2012-10-08 12:31:40 query-type {Semantic Search languages tools methods}
+2012-10-08 12:32:38 query-type {Semantic Search languages }
+2012-10-08 12:34:02 bookmark {Structured natural-language descriptions for semantic content retrieval ofvisual materials} {A M Tam, C HC Leung} {50728e84573ce54e28000deb}
+2012-10-08 12:35:19 query-type {Semantic Search tools}
+2012-10-08 12:36:15 bookmark {Methodology and campaign design for the evaluation of semantic search tools} {Stuart N. Wrigley, Dorothee Reinhard, Khadija Elbedweihy, Abraham Bernstein, Fabio Ciravegna} {4faba907573ce5256b0001e3}
+2012-10-08 12:37:37 query-type {Semantic Search practical implementation}
+2012-10-08 12:37:58 bookmark {Intelligent Search Machine with the Semantic Support} {S Dvorscak, K Machova} {502e7044573ce57a2800009f}
+2012-10-08 12:39:55 query-type {Semantic Search results organizing}
+2012-10-08 12:41:19 bookmark {Topic-driven web search result organization by leveraging wikipedia semantic knowledge} {Xianpei Han, Jun Zhao} {4fcc9e4d573ce567e5000551}
+2012-10-08 12:41:44 bookmark {IGroup a web image search engine with semantic clustering of search results} {Feng Jing, Changhu Wang, Yuhuan Yao, Kefeng Deng, Lei Zhang, Wei-Ying Ma} {4faba905573ce5256b0001bd}
+2012-10-08 12:42:30 bookmark {Algorithms for Generating Ontology Based Visualization from Semantic Search Results} {F Nazir, V Uren, A Nikolov} {502e7044573ce57a280000a7}
+2012-10-08 12:42:39 bookmark {SemRank: ranking complex relationship search results on the semantic web} {Kemafor Anyanwu, Angela Maduko, Amit Sheth} {4faba905573ce5256b0001ba}
+2012-10-08 12:44:06 bookmark {The effects of semantic grouping on visual search} {Tim Halverson, Anthony J. Hornof} {4fc75c5d573ce55d720005de}
+2012-10-08 12:44:47 query-type {Semantic web search technologies}
+2012-10-08 12:44:55 bookmark {Semantic web technologies to automate searching for geospatial data} {Nancy Wiegand} {4faba904573ce5256b0001a4}
+2012-10-08 12:45:27 bookmark {Inductive reasoning and semantic web search} {Claudia d'Amato, Floriana Esposito, Nicola Fanizzi, Bettina Fazzinga, Georg Gottlob, Thomas Lukasiewicz} {4faba5f4573ce5256b000174}
+2012-10-08 12:46:02 query-type {web technologies}
+2012-10-08 12:46:40 query-type {web technologies semantic search}
+2012-10-08 12:47:47 bookmark {A Domain Specific Ontology Based Semantic Web Search Engine} {Debajyoti Mukhopadhyay, Aritra Banik, Sreemoyee Mukherjee, Jhilik Bhattacharya, Young-Chon Kim} {4f679cb2573ce5651500044c}
+2012-10-08 12:48:17 bookmark {Neptuno: Semantic web technologies for a digital newspaper archive} {P Castells, F Perdrix, E Pulido, M Rico, R Benjamins, J Contreras, J Lores} {4fdf0b0b573ce5456c000be0}
+2012-10-08 12:48:36 bookmark {Aggregation of bioinformatics data using Semantic Web technology} {S Stephens, D LaVigna, M DiLascio, J Luciano} {4fc61054573ce558f3000cbd}
+2012-10-08 12:49:44 bookmark {Semantic Web Infrastructure Using DataPile} {Jakub Yaghob, Filip Zavoral} {4faba904573ce5256b0001a6}

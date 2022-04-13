@@ -1,0 +1,24 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 10:40:13 query-type {semantic search}
+2013-01-11 10:40:50 keyword-movement {[semantic web technologies],local,0.937917} {[search],semilocal,0.813927} {[semantic search],local,1.000000} 
+2013-01-11 10:42:35 keyword-movement {[semantic web technologies],local,0.900510} {[semantic search],local,1.000000} 
+2013-01-11 10:43:14 keyword-movement {[semantic web technologies],semilocal,0.687218} {[document retrieval],local,0.703364} {[retrieval],semilocal,0.984439} {[semantic search],local,1.000000} 
+2013-01-11 10:49:35 query-type {languages used in semantic search}
+2013-01-11 10:50:26 keyword-movement {[semantic web],local,0.996868} {[search],local,0.881201} {[programming languages],local,1.000000} 
+2013-01-11 10:50:50 keyword-movement {[semantic web],local,1.000000} {[programming languages],local,1.000000} 
+2013-01-11 10:54:11 query-type {web technologies in  semantic search}
+2013-01-11 10:54:42 keyword-movement {[semantic web technologies],local,1.000000} {[semantic web],semilocal,1.000000} {[semantics],semilocal,0.000000} {[semantic web search],local,0.288316} 
+2013-01-11 10:55:09 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2013-01-11 10:55:29 bookmark {Using semantic web technologies for information adaptation} {Vojtech Jirkovsky, Ivan Jelinek} {50728b39573ce54e28000c7f}
+2013-01-11 10:56:28 bookmark {Applications of concept relation network to web search} {Kenneth Wai-Ting Leung, Hing Yuet Fung, Dik Lun Lee} {4fc78e2f573ce55d72000a80}
+2013-01-11 10:57:04 bookmark {A relation-based search engine in Semantic Web} {Y F Li, Y Wang, X T Huang} {4faba907573ce5256b0001d5}
+2013-01-11 10:57:34 keyword-movement {[semantic web technologies],local,1.000000} {[web search],local,0.929749} {[web search engine],local,0.818936} {[web technology],local,1.000000} 
+2013-01-11 10:57:58 keyword-movement {[semantic web technologies],semilocal,1.000000} 
+2013-01-11 11:04:11 query-type {tools related to practical implementation of semantic search}
+2013-01-11 11:04:48 bookmark {A categorization scheme for semantic web search engines} {K S Esmaili, H Abolhassani} {502e7044573ce57a280000a4}
+2013-01-11 11:05:08 bookmark {INTEGRATION OF SEMANTIC TOOLS INTO DOCUMENT EDITORS} {J WELSH, Y YANG} {50729e56573ce54e28000fbf}
+2013-01-11 11:05:49 bookmark {Indexing scheme for keyword search over semantic web documents} {Y Kim, H Shin, K Chong, H Lim} {502e7045573ce57a280000cf}
+2013-01-11 11:06:20 bookmark {Intelligent Semantic Web Search Engines: A Brief Survey} {G. Madhu, Dr. A. Govardhan, Dr. T. V.} {4faba907573ce5256b0001db}
+2013-01-11 11:06:56 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2013-01-11 11:09:54 query-type {role of web technologies in semantic search}
+2013-01-11 11:10:08 keyword-movement {[semantic web technologies],local,1.000000} {[semantic web],semilocal,0.892189} {[semantics],semilocal,0.741347} 

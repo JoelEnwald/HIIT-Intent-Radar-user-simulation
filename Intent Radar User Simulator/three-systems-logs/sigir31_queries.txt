@@ -1,0 +1,5 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantic search" "2013-01-16 09:26:41" 5 4 0
+"semantic search web technologies" "2013-01-16 09:41:27" 1 2 0
+"semantic search ranking" "2013-01-16 09:50:11" 2 1 0
+"semantic search" "2013-01-16 09:53:00" 1 4 0

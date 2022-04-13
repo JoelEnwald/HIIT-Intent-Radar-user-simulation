@@ -1,0 +1,13 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-15 11:35:26 query-type {robotics subfield}
+2013-01-15 11:36:13 bookmark {Qualitative methods - The view from the subfields} {A Bennett, C Elman} {5072baa7573ce54e28001824}
+2013-01-15 11:36:23 bookmark {Is robot learning a new subfield? - The Robolearn-96 workshop} {H Hexmoor, L Meeden, R R Murphy} {5072baa7573ce54e28001810}
+2013-01-15 11:36:26 query-type {robotics subfield}
+2013-01-15 11:36:32 query-type {robotics field}
+2013-01-15 11:39:10 query-type {robotics subfield}
+2013-01-15 11:39:23 query-type {robotics subfieldar}
+2013-01-15 11:40:39 query-type {robotics algorithm}
+2013-01-15 11:41:49 bookmark {Reconfiguration Algorithms for Mobile Robotic Networks} {N Chakraborty, K Sycara} {5071e0db573ce54e280003ab}
+2013-01-15 11:41:54 keyword-selection {[algorithm],underdocument,1.000000} 
+2013-01-15 11:46:25 query-type {robotics algorithm sensor}
+2013-01-15 11:46:37 keyword-selection {[algorithm],underdocument,1.000000} 

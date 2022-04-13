@@ -1,0 +1,33 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 11:35:12 query-type {subfields of robotics}
+2013-01-11 11:38:16 query-type {fields of robotics}
+2013-01-11 11:38:47 query-type {subfields of robotics}
+2013-01-11 11:39:42 keyword-movement {[subfield],semilocal,1.000000} {[2-subfield],local,1.000000} 
+2013-01-11 11:40:17 query-type {what are the subfields of robotics}
+2013-01-11 11:43:22 keyword-movement {[bio-robotics],local,0.893230} {[human-robot interaction],local,0.994333} 
+2013-01-11 11:44:45 bookmark {Social robotics and human-machine interaction: Current research and relevance for social psychology} {G Echterhoff, G Bohner, F Siebler} {4fdc2d82573ce541b6001060}
+2013-01-11 11:46:57 bookmark {An atlas of physical human-robot interaction} {A De Santis, B Siciliano, A De Luca, A Bicchi} {4fcdbf74573ce567e500067e}
+2013-01-11 11:47:08 keyword-movement {[bio-robotics],local,1.000000} 
+2013-01-11 11:48:03 bookmark {Towards meaningful robotics for the future: Are we headed in the right direction?} {M Ejiri} {507453f4573ce5519c00131d}
+2013-01-11 11:48:17 bookmark {Robotics for medical applications} {P Darie, E Guglielmelli, B Allotta, M C Carrozza} {506c073e573ce5296d00005c}
+2013-01-11 11:48:48 bookmark {Computer vision for space robotics: Applications, role, and performance} {P Jasiobedzki, C Anders} {5071e593573ce54e2800089c}
+2013-01-11 11:49:36 keyword-movement {[medicine],local,0.742869} {[mechatronics],local,1.000000} {[agents],local,0.984150} {[symbiosis],local,0.952107} {[intelligent robot],local,1.000000} 
+2013-01-11 11:50:55 keyword-movement {[multimodal interaction],semilocal,0.000000} {[agent interaction],semilocal,0.000000} {[distributed intelligent agent],local,1.000000} 
+2013-01-11 11:52:09 keyword-movement {[virtual haptics],local,1.000000} {[machine vision],local,1.000000} 
+2013-01-11 11:52:47 bookmark {An effective personal mobile robot agent through symbiotic human-robot interaction} {Stephanie Rosenthal, Joydeep Biswas, Manuela Veloso} {4fc78f18573ce55d72000bc7}
+2013-01-11 11:53:06 bookmark {3D vision in a virtual reality robotics environment} {C Schutz, E Natonek, C Baur, H Hugli} {5034866c573ce57c9e0010c9}
+2013-01-11 11:53:31 query-type {appication areas of robotics}
+2013-01-11 11:56:05 bookmark {On Multi-robot Area Coverage} {P Fazli} {506ecd15573ce536a5000007}
+2013-01-11 11:56:16 bookmark {Multi-robot area coverage with limited visibility} {Pooyan Fazli, Alireza Davoodi, Philippe Pasquier, Alan K. Mackworth} {5072bc86573ce54e2800191e}
+2013-01-11 11:57:54 query-type {robotics}
+2013-01-11 11:58:48 bookmark {Robotics for mining} {V Konyukh} {506c073d573ce5296d000007}
+2013-01-11 11:59:30 query-type {robotics, medical, clinic}
+2013-01-11 12:00:50 query-type {robotics in medical}
+2013-01-11 12:01:22 bookmark {Safety Design for Medical Robots} {P Kazanzides} {5071de0f573ce54e28000132}
+2013-01-11 12:01:38 bookmark {Interactive robots for medical applications} {J Troccaz, P Berkelman, P Cinquin, A Vilchis-Gonzales} {50efe2d2573ce5342e000e78}
+2013-01-11 12:02:03 bookmark {A perspective on medical robotics} {R H Taylor} {4fc78f26573ce55d72000ccc}
+2013-01-11 12:02:26 query-type {algorithms for robotics}
+2013-01-11 12:02:36 keyword-movement {[robotics],semilocal,1.000000} {[algorithm],semilocal,1.000000} {[automation],semilocal,1.000000} 
+2013-01-11 12:02:51 bookmark {Quantum Robot: Structure, Algorithms and Applications} {Dao-Yi Dong, Chun-Lin Chen, Chen-Bin Zhang, Zong-Hai Chen} {4fdc2d45573ce541b6001014}
+2013-01-11 12:03:19 bookmark {The Fly Algorithm for Robot Navigation} {R Montufar-Chaveznava, M Perez-Meza, I Caldelas} {5071e0db573ce54e280003a1}
+2013-01-11 12:03:39 bookmark {A new adaptive learning algorithm for robot manipulator control} {A T Hasan, A MS Hamouda, N Ismail, H MAA Ai-Assadi} {4fd9f813573ce53bab000d40}

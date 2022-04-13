@@ -1,0 +1,39 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 12:27:32 query-type {semantic search}
+2013-01-11 12:28:42 query-type {methods for using semantics in searcg}
+2013-01-11 12:28:45 query-type {methods for using semantics in search}
+2013-01-11 12:29:15 keyword-movement {[semantic search engine],semilocal,0.783146} {[semantic web],local,0.555356} {[search engine],local,0.666146} {[retrieval],semilocal,0.881885} {[semantic search],local,0.863287} 
+2013-01-11 12:29:24 bookmark {A Semantic-based Search Engine for Traditional Medical Informatics} {Y X Mao, W Y Tian} {506d520e573ce531030002e0}
+2013-01-11 12:29:28 bookmark {A Semantic-based Search Engine for Traditional Medical Informatics} {Y X Mao, W Y Tian} {506d520e573ce531030002e0}
+2013-01-11 12:29:40 bookmark {Semantic Association Search and Rank Method based on Spreading Activation for the Semantic Web} {M Lee, W Kim} {502e7044573ce57a280000a9}
+2013-01-11 12:29:54 bookmark {A smart web query method for semantic retrieval of web data} {R HL Chiang, C EH Chua, V C Storey} {4faba904573ce5256b0001a8}
+2013-01-11 12:32:24 bookmark {A semantic search system using query definitions} {A. K. Sharma, Neelam Duhan, Bharti Sharma} {4fc75c5e573ce55d7200061c}
+2013-01-11 12:34:43 query-type {practical implementations of semantic search}
+2013-01-11 12:35:08 keyword-movement {[semantic web],local,0.751934} {[documents],local,0.855342} {[semantic search],local,0.861837} 
+2013-01-11 12:35:56 bookmark {Inductive reasoning and semantic web search} {Claudia d'Amato, Floriana Esposito, Nicola Fanizzi, Bettina Fazzinga, Georg Gottlob, Thomas Lukasiewicz} {4faba5f4573ce5256b000174}
+2013-01-11 12:37:23 bookmark {SemFace: A Human Face Search Engine Based on the Semantic Web} {H Hourani, M Al Rawi, A L Abu, S Jeschke} {502e7233573ce57a280000e7}
+2013-01-11 12:37:30 bookmark {Automatic extraction of web search interface based on visual features} {Y L Zhang, J Y Qiao} {506d52ce573ce53103000311}
+2013-01-11 12:39:23 query-type {organize results in semantic search}
+2013-01-11 12:40:07 keyword-movement {[algorithm],local,0.912291} 
+2013-01-11 12:40:52 query-type {how to organize results in semantic search}
+2013-01-11 12:41:10 bookmark {Topic-driven web search result organization by leveraging wikipedia semantic knowledge} {Xianpei Han, Jun Zhao} {4fcc9e4d573ce567e5000551}
+2013-01-11 12:42:38 bookmark {SemRank: ranking complex relationship search results on the semantic web} {Kemafor Anyanwu, Angela Maduko, Amit Sheth} {4faba905573ce5256b0001ba}
+2013-01-11 12:43:58 query-type {how to rank results in semantic search}
+2013-01-11 12:44:35 bookmark {Categorizing and ranking search engine's results by semantic similarity} {Tianyong Hao, Zhi Lu, Shitong Wang, Tiansong Zou, Shenhua GU, Liu Wenyin} {4fc75c5d573ce55d720005fc}
+2013-01-11 12:46:10 query-type {web technologies in semantic search}
+2013-01-11 12:46:20 keyword-movement {[semantic web technologies],local,0.871308} {[algorithm],semilocal,0.817089} 
+2013-01-11 12:47:46 bookmark {Interoperability results for Semantic Web technologies using OWL as the interchange language} {R Garcia-Castro, A Gomez-Perez} {4fc61053573ce558f3000c7e}
+2013-01-11 12:49:42 keyword-movement {[xml-based technologies],local,0.629305} 
+2013-01-11 12:50:14 bookmark {Semantic web support applications} {Fernando Chagas, Cedric Luiz de, Jo&#227;o Carlos da} {4faba906573ce5256b0001cb}
+2013-01-11 12:51:32 query-type {web technologies in semantic search}
+2013-01-11 12:53:25 keyword-movement {[metadata],local,0.285223} {[recommender systems],local,0.304019} {[collaborative tagging],local,0.736684} 
+2013-01-11 12:53:35 bookmark {WESONet: Applying semantic web technologies and collaborative tagging to multimedia web information systems} {J EL Gayo, P O de, J MC Lovelle} {4fdb1a84573ce53bab00119a}
+2013-01-11 12:53:40 bookmark {Semantic Web multimedia Metadata retrieval: An music approach} {E V Moutselakis, A S Karakos} {50729717573ce54e28000e73}
+2013-01-11 12:54:05 bookmark {SXRS: An XLink-based Recommender System using Semantic Web technologies} {I C Hsu} {4fcc9e79573ce567e500059f}
+2013-01-11 12:54:21 bookmark {Unlocking the semantics of multimedia presentations in the web with the multimedia metadata ontology} {Carsten Saathoff, Ansgar Scherp} {4fab9a9f573ce5256b000128}
+2013-01-11 12:55:30 keyword-movement {[swrl],local,0.574597} {[owl],local,0.676620} {[recommender systems],local,0.588060} {[xlink],local,0.384125} {[collaborative tagging],local,0.713491} {[multimedia web information systems],local,0.357789} 
+2013-01-11 12:56:12 keyword-movement {[swrl],local,0.963905} 
+2013-01-11 12:56:40 bookmark {On OWL/SWRL mapping to UML/OCL} {Diana Kalibatiene, Olegas Vasilecas} {5073d0c4573ce5519c0005e6}
+2013-01-11 12:57:19 bookmark {Semantic matchmaker with precondition and effect matching using SWRL} {A B Bener, V Ozadali, E S Ilhan} {50728cc5573ce54e28000cba}
+2013-01-11 12:57:50 query-type {web technologies in semantic search wiki}
+2013-01-11 12:57:59 bookmark {SweetWiki semantic web enabled technologies in Wiki} {Michel Buffa, Fabien Gandon} {4fc61053573ce558f3000c65}

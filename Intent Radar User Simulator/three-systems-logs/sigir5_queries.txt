@@ -1,0 +1,11 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantic search" "2013-01-11 12:27:32" 0 1 0
+"methods for using semantics in searcg" "2013-01-11 12:28:42" 0 1 0
+"methods for using semantics in search" "2013-01-11 12:28:45" 5 2 0
+"practical implementations of semantic search" "2013-01-11 12:34:43" 3 2 0
+"organize results in semantic search" "2013-01-11 12:39:23" 0 2 0
+"how to organize results in semantic search" "2013-01-11 12:40:52" 2 1 0
+"how to rank results in semantic search" "2013-01-11 12:43:58" 1 1 0
+"web technologies in semantic search" "2013-01-11 12:46:10" 2 3 1
+"web technologies in semantic search" "2013-01-11 12:51:32" 6 4 1
+"web technologies in semantic search wiki" "2013-01-11 12:57:50" 1 1 0

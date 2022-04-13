@@ -1,0 +1,51 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-08 11:07:16 query-type {semantic}
+2012-10-08 11:09:29 query-type {semantic search}
+2012-10-08 11:10:55 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd8573ce54d20000545}
+2012-10-08 11:12:30 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2012-10-08 11:12:31 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2012-10-08 11:13:19 bookmark {Towards semantic search} {R Baeza-Yates, M Ciaramita, P Mika, H Zaragoza} {502e7044573ce57a2800009e}
+2012-10-08 11:13:45 query-type {semantic search technology}
+2012-10-08 11:15:26 query-type {semantic search methods}
+2012-10-08 11:16:23 bookmark {Semantic Association Search and Rank Method based on Spreading Activation for the Semantic Web} {M Lee, W Kim} {502e7044573ce57a280000a9}
+2012-10-08 11:17:49 bookmark {On Variety of Semantic Search Systems and Their Evaluation Methods} {D Strasunskas, S Tomassen} {502e7044573ce57a280000b6}
+2012-10-08 11:18:26 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba903573ce5256b00019e}
+2012-10-08 11:18:37 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba905573ce5256b0001b8}
+2012-10-08 11:19:01 query-type {semantic search alhorithms}
+2012-10-08 11:19:10 query-type {semantic search algorithms}
+2012-10-08 11:19:32 bookmark {An Efficient Semantic Search Scheme for Decentralized P2P Environment} {J Y Chen, H W Zeng, Y Wang} {502e7044573ce57a280000b5}
+2012-10-08 11:19:39 bookmark {A Semantic Enabled Intelligent Search System for Educational Information Resources} {C Q Huang, R L Duan, Z T Zhu, Y J Yan, H Bai} {502e7044573ce57a280000bc}
+2012-10-08 11:19:46 bookmark {A relation-based search engine in Semantic Web} {Y F Li, Y Wang, X T Huang} {4faba907573ce5256b0001d5}
+2012-10-08 11:20:03 bookmark {A semantic matching algorithm for discovery in UDDI} {U Aguilera, J Abaitua, J Diaz, D Bujan, D Lopez-de-Ipina} {506d557d573ce531030003e3}
+2012-10-08 11:20:22 query-type {semantic matching}
+2012-10-08 11:21:11 bookmark {Semantic matching of ontology instances} {M Liu, H Q Guo, J D Su} {50728cc5573ce54e28000c9f}
+2012-10-08 11:21:44 bookmark {Matching Model for Semantic Web Services Discovery} {K Zamanifar, A Zohali, N Nematbakhsh} {50728cc5573ce54e28000ca3}
+2012-10-08 11:23:04 bookmark {Multi-level Semantic Matching of Geospatial Web Services} {A Luo, Y D Wang, A Luo, Y D Wang, L F Wang, Y He} {5031f120573ce57c9e00082a}
+2012-10-08 11:23:11 bookmark {Matching semantic Web services using different ontologies} {L D Ngan, A Goh} {50728cc5573ce54e28000ca8}
+2012-10-08 11:23:29 bookmark {Question answering using sentence parsing and semantic network matching} {S Hartrumpf} {4fdb1aa8573ce53bab0011ec}
+2012-10-08 11:23:43 bookmark {A formal approach to ontology-based semantic match of skills descriptions} {S Colucci, T Di Noia, E Di Sciascio, F M Donini, M Mongiello, M Mottola} {50728cc5573ce54e28000cac}
+2012-10-08 11:24:05 query-type {semantic web summary}
+2012-10-08 11:24:20 bookmark {From XML to semantic Web} {C Q Li, T W Ling} {5031f0fc573ce57c9e0007a2}
+2012-10-08 11:24:32 bookmark {Modeling applications for the Semantic Web} {F Lima, D Schwabe} {4fe04439573ce54975000509}
+2012-10-08 11:24:45 bookmark {Modeling applications for the Semantic Web} {F Lima, D Schwabe} {4fe04439573ce54975000509}
+2012-10-08 11:25:02 bookmark {Heraclitus: A framework for semantic web adaptation} {A Mikroyannidis, B Theodoulidis} {5031f0fc573ce57c9e0007a4}
+2012-10-08 11:25:12 bookmark {Three theses of representation in the semantic web} {Ian Horrocks, Peter F. Patel-Schneider} {5031f0fc573ce57c9e0007a5}
+2012-10-08 11:25:41 bookmark {An application server for the semantic web} {Daniel Oberle, Steffen Staab, Raphael Volz} {4fe0443a573ce54975000527}
+2012-10-08 11:25:58 bookmark {The semantic webscape: a view of the semantic web} {Juhnyoung Lee, Richard Goodwin} {4faba905573ce5256b0001bf}
+2012-10-08 11:26:42 bookmark {Summarizing Vocabularies in the Global Semantic Web} {X Zhang, G Cheng, W Y Ge, Y Z Qu} {4fc61053573ce558f3000c8c}
+2012-10-08 11:27:01 query-type {semantic languages}
+2012-10-08 11:27:09 bookmark {Semantics through language sharing} {Jessica Rubart} {50728e53573ce54e28000d41}
+2012-10-08 11:27:11 bookmark {Semantics for an agent communication language} {Y Labrou, T Finin} {504dd99b573ce510ea00002f}
+2012-10-08 11:27:28 bookmark {Semantics of programming languages a tool-oriented approach} {Jan Heering, Paul Klint} {50728e53573ce54e28000d44}
+2012-10-08 11:27:49 query-type {semantic search languages}
+2012-10-08 11:32:04 bookmark {Informatics in Radiology RADTF: A Semantic Search-enabled, Natural Language Processor-generated Radiology Teaching File} {B H Do, A Wu, S Biswal, A Kamaya, D L Rubin} {4fd9cbe9573ce53805000035}
+2012-10-08 11:33:00 bookmark {Semantic search via XML fragments: a high-precision approach to IR} {Jennifer Chu-Carroll, John Prager, Krzysztof Czuba, David Ferrucci, Pablo Duboue} {4fd9cbe7573ce5380500000b}
+2012-10-08 11:33:04 bookmark {Structured natural-language descriptions for semantic content retrieval ofvisual materials} {A M Tam, C HC Leung} {50728e84573ce54e28000deb}
+2012-10-08 11:33:07 bookmark {Semi-automatic Annotation System for OWL-based Semantic Search} {C H Liu, H C Chen, J L Jain, J Y Chen} {502e7045573ce57a280000c2}
+2012-10-08 11:33:35 bookmark {Indexing scheme for keyword search over semantic web documents} {Y Kim, H Shin, K Chong, H Lim} {502e7045573ce57a280000cf}
+2012-10-08 11:35:03 bookmark {Language engineering for the Semantic Web: a digital library for endangered languages.} {S Y Lu, D P Liu, F Fotouhi, M Dong, R Reynolds, A Aristar, M Ratliff, G Nathan, J Tan, R Powell} {50728e84573ce54e28000ded}
+2012-10-08 11:36:33 query-type {semantic search filtering}
+2012-10-08 11:36:42 query-type {semantic search filtering}
+2012-10-08 11:37:15 bookmark {Question-driven semantic filters for answer retrieval} {M Pasca} {4fcca129573ce567e50005e3}
+2012-10-08 11:37:38 bookmark {The Research of Semantic Web Service Matching Algorithm Based on Concept Lattices and Filtering Mechanism} {B Yang, Y F Li, Y J Li, H C Xu} {506ef868573ce53a8700003d}
+2012-10-08 11:38:24 bookmark {A semantic vector space and features-based approach for automatic information filtering} {O Nouali, P Blache} {5072908f573ce54e28000dfd}

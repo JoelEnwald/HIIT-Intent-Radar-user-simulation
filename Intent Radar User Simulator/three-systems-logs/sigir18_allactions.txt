@@ -1,0 +1,39 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 13:26:27 query-type {robotics}
+2013-01-11 13:27:01 keyword-selection {[image processing],stash,1.000000} {[automation],stash,1.000000} 
+2013-01-11 13:28:03 query-type {robot soccer}
+2013-01-11 13:28:41 query-type {robotics mechanics}
+2013-01-11 13:28:59 bookmark {A review of locomotion mechanisms of urban search and rescue robot} {Z L Wang, H Gu} {5072c069573ce54e280019d6}
+2013-01-11 13:29:16 bookmark {Research on the locomotion mechanism of snake-like robot} {Liuhua , G Z Yan, G Q Ding} {50eff769573ce5342e000f28}
+2013-01-11 13:29:44 query-type {robotics software control}
+2013-01-11 13:30:49 query-type {robotics software control mechanics}
+2013-01-11 13:31:11 query-type {robotics software control}
+2013-01-11 13:31:40 bookmark {Architecture of Network Robot Control Server Software Written in a Rule-based Language} {M Shimbuichi, K Matsuoka, K Takami} {50eff7a8573ce5342e000f50}
+2013-01-11 13:32:04 query-type {robot soccer}
+2013-01-11 13:33:08 query-type {robot soccer electronics}
+2013-01-11 13:33:24 query-type {robotics electronics}
+2013-01-11 13:33:49 keyword-selection {[robot sensing systems],stash,1.000000} 
+2013-01-11 13:35:10 keyword-selection {[robot],stash,1.000000} 
+2013-01-11 13:35:49 bookmark {Design and prototype of mobile robots for rescue operations} {E F Kececi} {4fc7c2ec573ce55d720011b0}
+2013-01-11 13:35:54 bookmark {The Robotic Autonomy mobile robotics course: Robot design, curriculum design and educational assessment} {I R Nourbakhsh, K Crowley, A Bhave, E Hamner, T Hsiu, A Perez-Bergquist, S Richards, K Wilkinson} {4fc78f19573ce55d72000bdd}
+2013-01-11 13:36:32 keyword-selection {[mobile robot],stash,1.000000} 
+2013-01-11 13:37:22 query-type {robotics algorithm}
+2013-01-11 13:37:40 keyword-selection {[distributed],stash,1.000000} {[algorithm],underdocument,1.000000} 
+2013-01-11 13:39:02 query-type {robot soccer}
+2013-01-11 13:39:33 keyword-selection {[design],stash,1.000000} 
+2013-01-11 13:40:59 query-type {robot algorithm}
+2013-01-11 13:41:09 bookmark {Distributed algorithms for multi-robot systems} {James McLurkin} {5071e0db573ce54e280003a0}
+2013-01-11 13:46:21 query-type {robot navigation algorithm}
+2013-01-11 13:46:44 query-type {cooperative navigation system}
+2013-01-11 13:46:57 keyword-selection {[cooperative navigation],stash,1.000000} 
+2013-01-11 13:47:26 query-type {CNS}
+2013-01-11 13:47:34 query-type { robotics CNS}
+2013-01-11 13:48:15 keyword-selection {[mobile robots],stash,1.000000} 
+2013-01-11 13:48:46 keyword-selection {[unstructured environments],stash,1.000000} 
+2013-01-11 13:49:33 keyword-selection {[path planning],stash,1.000000} {[mobile robots],underdocument,1.000000} 
+2013-01-11 13:50:09 keyword-selection {[path planning],stash,1.000000} {[obstacle avoidance],stash,1.000000} {[navigation],underdocument,1.000000} 
+2013-01-11 13:51:33 keyword-selection {[obstacle avoidance],stash,1.000000} 
+2013-01-11 13:51:48 keyword-selection {[adaptive navigation],stash,1.000000} 
+2013-01-11 13:52:48 query-type {multi-robot task allocation}
+2013-01-11 13:53:02 keyword-selection {[algorithm],stash,1.000000} 
+2013-01-11 13:56:12 bookmark {Multi-Robot Dynamic Task Allocation Using Modified Ant Colony System} {Z Z Xu, F Xia, X C Zhang} {5071e9d4573ce54e28000adc}

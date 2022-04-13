@@ -1,0 +1,48 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-09 16:10:03 query-type {semantic search}
+2013-01-09 16:13:37 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2013-01-09 16:14:23 keyword-movement {[search],semilocal,0.391561} {[search engine],local,0.653500} {[classification],semilocal,0.200760} {[semantic web search],semilocal,0.000000} {[keyword expansion],semilocal,0.321566} {[bayesian network],local,0.632777} {[web application],semilocal,0.000000} {[semantic search engine],local,0.500673} {[semantic web],local,0.615297} {[search and retrieval],semilocal,0.307255} {[personalization],local,0.581431} {[topical semantic similarity],semilocal,0.258923} {[semantic web technologies],semilocal,0.322281} {[semantic search],local,1.000000} {[information retrieval],local,0.348863} 
+2013-01-09 16:16:00 query-type {semantic search}
+2013-01-09 16:16:37 keyword-movement {[bayesian network],local,0.924659} {[fuzzy description logic],semilocal,0.779626} {[search],semilocal,0.713738} {[information retrieval],local,0.899656} {[semantic search engine],local,0.874452} {[semantic web],local,0.889839} {[semantic web technologies],local,1.000000} {[knowledge retrieval],semilocal,0.763229} {[ontologies],local,0.863668} 
+2013-01-09 16:17:48 keyword-movement {[semantic classification],local,1.000000} {[inference],local,1.000000} {[retrieval],local,0.893438} {[information retrieval],local,0.940226} 
+2013-01-09 16:18:17 keyword-movement {[semantic classification],local,0.926898} {[semantic search techniques],semilocal,1.000000} 
+2013-01-09 16:19:39 query-type {inference}
+2013-01-09 16:20:13 query-type {query expansion}
+2013-01-09 16:22:31 bookmark {A review of ontology based query expansion} {J Bhogal, A Macfarlane, P Smith} {4fd9cfda573ce538050005fc}
+2013-01-09 16:22:44 keyword-movement {[information search and retrieval],semilocal,0.154356} {[external expansion],local,0.505668} {[query expansion on fields],semilocal,0.380654} {[complex query],local,0.533259} {[information retrieval],local,0.846711} {[term co-occurrence],local,0.510651} {[efficiency],semilocal,0.000000} {[relevance feedback],semilocal,0.000000} {[context],local,0.218698} {[query expansion],semilocal,1.000000} {[business intelligence],semilocal,0.000000} 
+2013-01-09 16:23:06 bookmark {A new approach for evaluating query expansion query-document term mismatch} {Tonya Custis, Khalid Al-Kofahi} {4fbc9a83573ce53aad000071}
+2013-01-09 16:23:25 query-type {relevance feedback}
+2013-01-09 16:23:56 bookmark {Incremental relevance feedback} {IJsbrand Jan Aalbersberg} {4f61b096573ce5527e0003a3}
+2013-01-09 16:24:00 bookmark {Relevance feedback and inference networks} {David Haines, W. Bruce Croft} {4f61b096573ce5527e0003a5}
+2013-01-09 16:24:18 keyword-movement {[relevance feedback],semilocal,1.000000} {[user modeling],local,0.377966} {[active learning],local,0.422758} {[experimentation],local,0.419799} 
+2013-01-09 16:24:32 bookmark {Learning image similarities and categories from content analysis and relevance feedback} {Zijun Yang, C. -C. Jay} {4fc48728573ce55565000005}
+2013-01-09 16:24:48 query-type {query expansion}
+2013-01-09 16:25:18 keyword-movement {[evaluation],semilocal,0.000000} {[automatic query expansion],local,0.665007} {[query expansion],semilocal,1.000000} {[knowledge based query expansion],local,0.603515} {[ontologies],local,0.532143} 
+2013-01-09 16:25:38 bookmark {Image retrieval with automatic query expansion based on local analysis in a semantical concept feature space} {Md Mahmudur Rahman, Prabir Bhattacharya} {4fd9cb81573ce5371a00016d}
+2013-01-09 16:25:41 bookmark {Document expansion for image retrieval} {Jinming Min, Johannes Leveling, Dong Zhou, Gareth J. F.} {4fcb345d573ce567e5000114}
+2013-01-09 16:25:47 query-type {document expansion}
+2013-01-09 16:26:00 keyword-movement {[automatic query expansion],semilocal,0.000000} 
+2013-01-09 16:26:35 bookmark {Query expansion for document retrieval based on fuzzy rules and user relevance feedback techniques} {H C Lin, L H Wang, S M Chen} {4fc48729573ce55565000060}
+2013-01-09 16:27:01 query-type {implementation}
+2013-01-09 16:27:22 query-type {semantic web implementation}
+2013-01-09 16:28:26 keyword-movement {[web ontology language],local,1.000000} {[implementation],semilocal,1.000000} {[service implementation],local,1.000000} {[semantic web],semilocal,1.000000} {[web services],local,1.000000} {[web technology],local,0.820196} 
+2013-01-09 16:29:58 bookmark {Modeling web service profiles for the Semantic Web: A UML based approach} {V Sugumaran, S Park} {4fc61053573ce558f3000c3b}
+2013-01-09 16:30:13 query-type {web ontology language}
+2013-01-09 16:30:20 bookmark {Introduction to semantic web ontology languages} {G Antoniou, E Franconi, R van Harmelen} {50728e53573ce54e28000d55}
+2013-01-09 16:30:22 bookmark {A Web ontology description language} {H Ouahid, A Karmouch} {5073d0c5573ce5519c000621}
+2013-01-09 16:30:27 bookmark {DAML+OIL: A reason-able Web ontology language} {I Horrocks} {50ed7ef4573ce5342e0005d2}
+2013-01-09 16:31:01 bookmark {Reviewing the design of DAML+OIL an ontology language for the semantic web} {Ian Horrocks, Peter F. Patel-Schneider, Frank van Harmelen} {502cb225573ce56fea0014ce}
+2013-01-09 16:32:03 keyword-movement {[semantic annotation],local,1.000000} {[semantic web],local,0.916776} {[ontology languages],local,0.942446} {[ontologies],local,0.943269} {[web service description],local,0.673218} 
+2013-01-09 16:32:45 query-type {ontology language}
+2013-01-09 16:33:34 keyword-movement {[ontology development],local,0.437919} {[protege editor],local,0.221848} {[ontology language],local,0.800694} {[controlled vocabularies],semilocal,0.000000} 
+2013-01-09 16:33:49 bookmark {On Ontology, ontologies, Conceptualizations, Modeling Languages, and (Meta)Models} {G Guizzardi} {50ed7fbd573ce5342e000608}
+2013-01-09 16:34:00 bookmark {Bridging software languages and ontology technologies tutorial summary} {Fernando Silva Parreiras, Tobias Walter, Christian Wende, Edward Thomas} {50ed7ef5573ce5342e0005e0}
+2013-01-09 16:34:19 query-type {web service description}
+2013-01-09 16:35:08 query-type {web service database}
+2013-01-09 16:35:48 bookmark {A methodology for database reengineering to Web Services} {I GR de, M Polo, M Piattini} {50ed801c573ce5342e00062e}
+2013-01-09 16:35:51 bookmark {Distributed database caching for web applications and web services} {H. K. Mehta, P. Kanungo, M. Chandwani} {4f5f094e573ce54d200006d3}
+2013-01-09 16:37:35 query-type {search result}
+2013-01-09 16:38:21 bookmark {Displaying search results in textual databases} {Offer Drori} {4fc61970573ce558f3001084}
+2013-01-09 16:38:30 bookmark {Refining search results using a mining framework} {O R Jeong, E Lee, W Kim} {506d54a1573ce53103000378}
+2013-01-09 16:40:09 bookmark {Multi-dimensional search result diversification} {Zhicheng Dou, Sha Hu, Kun Chen, Ruihua Song, Ji-Rong Wen} {50b74988573ce52d9600000a}
+2013-01-09 16:40:15 keyword-movement {[search results],semilocal,1.000000} {[mediation middleware],semilocal,0.580251} {[heterogeneous database],semilocal,0.365238} {[database],semilocal,1.000000} {[web service],semilocal,1.000000} {[user interface],local,0.139706} {[information display],semilocal,0.016037} {[human-computer interfaces],local,0.473007} {[relational databases],semilocal,0.438351} {[evaluation],semilocal,0.000000} 

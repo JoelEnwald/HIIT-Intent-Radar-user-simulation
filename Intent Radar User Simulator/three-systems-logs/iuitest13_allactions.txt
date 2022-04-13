@@ -1,0 +1,41 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-08 14:00:40 query-type {semantic search}
+2012-10-08 14:00:58 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2012-10-08 14:03:32 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2012-10-08 14:03:40 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2012-10-08 14:04:16 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2012-10-08 14:06:55 bookmark {Towards semantic search} {R Baeza-Yates, M Ciaramita, P Mika, H Zaragoza} {502e7044573ce57a2800009e}
+2012-10-08 14:07:34 bookmark {The usability of semantic search tools: a review} {V Uren, Y G Lei, V Lopez, H M Liu, E Motta, M Giordanino} {4faba906573ce5256b0001c8}
+2012-10-08 14:08:18 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba903573ce5256b00019e}
+2012-10-08 14:08:51 bookmark {Image Semantic Search Engine} {C Q Lv, T Kobayashi, K Agusa, K Wu, Q Zhu} {502e7044573ce57a280000a0}
+2012-10-08 14:10:20 query-type {semantic search aggragation}
+2012-10-08 14:10:22 bookmark {The Research of the Semantic Search Engine based on the Ontology} {Z Q Du, J Hu, H X Yi, J Z Hu} {502e7044573ce57a280000ac}
+2012-10-08 14:10:44 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd8573ce54d20000545}
+2012-10-08 14:10:51 bookmark {RSS: A framework enabling ranked search on the semantic web} {X M Ning, H Jin, H Wu} {4faba906573ce5256b0001ca}
+2012-10-08 14:11:12 bookmark {Distributed semantic search for the web a multiagent approach} {Murat &#350;ensoy} {4faba903573ce5256b00019c}
+2012-10-08 14:11:20 bookmark {Leveraging semantic technologies for enterprise search} {Gianluca Demartini} {4fc75c5d573ce55d720005e7}
+2012-10-08 14:11:30 bookmark {Fuzzy view-based semantic search} {M Holi, E Hyvonen} {4fd9cbe7573ce53805000001}
+2012-10-08 14:12:08 query-type {semantic search aggragation approach}
+2012-10-08 14:14:03 bookmark {A semantic search approach by graph matching with negations and inferences} {K W Tu, J Lu, H P Zhu, G W Liu, Y Yu} {4fd9cbe7573ce53805000005}
+2012-10-08 14:14:07 bookmark {A hybrid approach for searching in the semantic web} {Cristiano Rocha, Daniel Schwabe, Marcus Poggi Aragao} {4fd9cbe8573ce53805000017}
+2012-10-08 14:16:43 query-type {semantic aggragation}
+2012-10-08 14:16:51 bookmark {Semantic processing of the semantic web} {K Patel, G Gupta} {4faba904573ce5256b0001ae}
+2012-10-08 14:17:02 bookmark {Semantic web support applications} {Fernando Chagas, Cedric Luiz de, Jo&#227;o Carlos da} {4faba906573ce5256b0001cb}
+2012-10-08 14:17:06 bookmark {The semantics of semantic annotation} {S Bechhofer, L Carr, C Goble, S Kampa, T Miles-Board} {4fdb2127573ce53fdc00002a}
+2012-10-08 14:17:23 query-type {semantic web aggragation}
+2012-10-08 14:18:14 bookmark {An Algebraic Specification of the Semantic Web} {Katerina Ksystra, Nikolaos Triantafyllou, Petros Stefaneas, Panayiotis Frangos} {5031f0fc573ce57c9e0007a7}
+2012-10-08 14:18:15 bookmark {Three theses of representation in the semantic web} {Ian Horrocks, Peter F. Patel-Schneider} {5031f0fc573ce57c9e0007a5}
+2012-10-08 14:18:17 bookmark {Semantic discovery of Web services} {H G Lu} {5031f0fc573ce57c9e0007a6}
+2012-10-08 14:20:13 bookmark {Web to Semantic Web & Role of Ontology} {Zeeshan Ahmed, Detlef Gerhard} {4f5f094e573ce54d200006cb}
+2012-10-08 14:20:14 query-type {semantic web organise data}
+2012-10-08 14:20:15 bookmark {A semantic web approach to handling soft constraints in virtual organisations} {Alun Preece, Stuart Chalmers, Craig McKenzie, Jeff Z. Pan, Peter Gray} {4fc6129a573ce558f3000ede}
+2012-10-08 14:20:19 bookmark {Organisational challenges of the semantic web in digital libraries: a Norwegian case study} {B Bygstad, G Ghinea, G T Klaeboe} {5072b6ec573ce54e280013f6}
+2012-10-08 14:20:49 bookmark {A Semantic Web approach to handling soft constraints in virtual organisations} {A Preece, S Chalmers, C McKenzie, J Z Pan, P MD Gray} {4fc6129a573ce558f3000edf}
+2012-10-08 14:24:01 bookmark {Data retrieval and evolution on the (Semantic) Web: A deductive approach} {F Bry, T Furche, P L Patranjan, S Schaffert} {5031f0fd573ce57c9e0007fb}
+2012-10-08 14:24:08 bookmark {Comparative Classification of Semantic Web Challenges and Data Mining Techniques} {M Keyvanpour, H Hassanzadeh, B M Khoshroo} {5031f0fd573ce57c9e000803}
+2012-10-08 14:24:52 query-type {technique semantic web}
+2012-10-08 14:25:40 bookmark {Web service composition: a semantic web and automated planning technique application} {J AG Luna, D AO Carranza} {4fc61053573ce558f3000c33}
+2012-10-08 14:26:36 bookmark {Semantic web techniques for multiple views on heterogeneous collections: Acase study} {M van Gendt, A Isaac, L van der, S Schlobach} {4fdee2c4573ce5456c000884}
+2012-10-08 14:27:01 bookmark {Exploiting semantic web techniques for representing and utilising Folksonomies} {Owen Sacco, C&#233;cile Bothorel} {4fc61053573ce558f3000c8b}
+2012-10-08 14:29:59 bookmark {Special track on the Semantic Web and Applications editorial message} {Hyoil Han} {4fd9f522573ce53bab000946}
+2012-10-08 14:30:00 bookmark {A Semantic Web mediation architecture} {M Stollberg, E Cimpian, A Mocan, D Fensel} {5031f0fc573ce57c9e0007ac}

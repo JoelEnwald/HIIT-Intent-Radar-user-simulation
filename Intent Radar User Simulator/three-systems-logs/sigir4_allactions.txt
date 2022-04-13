@@ -1,0 +1,21 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 09:10:17 query-type {semantic search}
+2013-01-11 09:13:53 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2013-01-11 09:14:36 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2013-01-11 09:15:32 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2013-01-11 09:16:00 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2013-01-11 09:16:52 bookmark {Towards semantic search} {R Baeza-Yates, M Ciaramita, P Mika, H Zaragoza} {502e7044573ce57a2800009e}
+2013-01-11 09:17:14 bookmark {Intelligent Search Machine with the Semantic Support} {S Dvorscak, K Machova} {502e7044573ce57a2800009f}
+2013-01-11 09:18:30 bookmark {Image Semantic Search Engine} {C Q Lv, T Kobayashi, K Agusa, K Wu, Q Zhu} {502e7044573ce57a280000a0}
+2013-01-11 09:19:17 bookmark {Towards a domain oriented and independent semantic search model} {Z X Yan, Y Ding, E Cimpian} {502e7044573ce57a280000a1}
+2013-01-11 09:20:15 bookmark {Conceptual graph matching for semantic search} {J W Zhong, H P Zhu, J M Li, Y Yu} {4fd9cbe7573ce53805000000}
+2013-01-11 09:21:29 bookmark {The crucial role of semantic discovery and markup in geo-temporal search} {Fredric C. Gey, Noriko Kando, Ray R. Larson} {4fc75c5d573ce55d720005da}
+2013-01-11 09:22:23 bookmark {Towards a flash search engine based on expressive semantics} {Dawei Ding, Jun Yang, Qing Li, Liping Wang, Liu Wenyin} {4fd9cbe7573ce53805000002}
+2013-01-11 09:23:11 bookmark {Association search in semantic web: search + inference} {Liang Bangyong, Tang Jie, Li Juanzi} {4f5efcd8573ce54d20000550}
+2013-01-11 09:23:59 bookmark {Interconnection semantics for keyword search in XML} {Sara Cohen, Yaron Kanza, Benny Kimelfeld, Yehoshua Sagiv} {4fc75c5d573ce55d720005d9}
+2013-01-11 09:24:29 bookmark {Recent advances and challenges of semantic image/video search} {S F Chang, W Y Ma, A Smeulders} {502e7044573ce57a280000aa}
+2013-01-11 09:25:00 bookmark {Stochastic Search Based on Evolutionary Algorithm for Semantic Web} {Q L Tong, H Tong, Y Cheng} {502e7044573ce57a280000ab}
+2013-01-11 09:25:48 bookmark {A Personalized Search Research Based on Vocabulary Semantic Net} {X Chen, T H Liu, J Liu, X F Han} {502e7044573ce57a280000ad}
+2013-01-11 09:26:30 bookmark {Bringing Precision to Office Document Search by Semantic Relationship Approach} {S Chatvichienchai, K Tanaka} {502e7044573ce57a280000b0}
+2013-01-11 09:26:48 bookmark {Falconer: once SIOC meets semantic search engine} {Gang Wu, Mengdong Yang, Ke Wu, Guilin Qi, Yuzhong Qu} {4faba907573ce5256b0001e2}
+2013-01-11 09:28:19 keyword-selection {[inference],stash,1.000000} 

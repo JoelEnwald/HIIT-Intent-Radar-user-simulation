@@ -1,0 +1,26 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 15:39:11 query-type {robotics}
+2013-01-11 15:39:32 keyword-selection {[robotics],stash,1.000000} {[automation],stash,1.000000} 
+2013-01-11 15:39:55 bookmark {Redefining robotics for the new millennium} {J Trevelyan} {5071e593573ce54e2800087e}
+2013-01-11 15:42:13 keyword-selection {[robotics],underdocument,1.000000} {[robotic systems],underdocument,1.000000} {[automation],stash,1.000000} 
+2013-01-11 15:42:46 query-type {robotics review}
+2013-01-11 15:43:40 keyword-selection {[control],stash,1.000000} {[human-robot collaboration],stash,1.000000} {[robotics],underdocument,1.000000} 
+2013-01-11 15:44:09 keyword-selection {[control],stash,1.000000} 
+2013-01-11 15:44:23 keyword-selection {[review],underdocument,1.000000} 
+2013-01-11 15:45:41 query-type {robotics survey}
+2013-01-11 15:45:54 keyword-selection {[mobile robotics],stash,1.000000} {[robotics],stash,1.000000} 
+2013-01-11 15:49:00 keyword-selection {[summarization],stash,1.000000} {[mobile robotics],stash,1.000000} {[robotics],underdocument,1.000000} {[space robotics],stash,1.000000} 
+2013-01-11 15:50:29 bookmark {Towards meaningful robotics for the future: Are we headed in the right direction?} {M Ejiri} {507453f4573ce5519c00131d}
+2013-01-11 15:51:14 query-type {robotics}
+2013-01-11 15:54:05 query-type {robotics overview}
+2013-01-11 15:54:49 bookmark {Artificial neural network based robot control: An overview} {S M Prabhu, D P Garg} {5071de0f573ce54e2800010e}
+2013-01-11 15:58:46 keyword-selection {[robotics],underdocument,1.000000} 
+2013-01-11 15:59:32 query-type {robotics algorithms}
+2013-01-11 16:01:30 keyword-selection {[algorithm],underdocument,1.000000} 
+2013-01-11 16:02:40 keyword-selection {[path planning],stash,1.000000} 
+2013-01-11 16:03:59 query-type {robotics}
+2013-01-11 16:04:39 bookmark {AI and robotics} {O M Evans} {4fc78f18573ce55d72000bcc}
+2013-01-11 16:05:05 bookmark {Robotic Architectures} {M Mtshali, A Engelbrecht} {4fc78f18573ce55d72000bb2}
+2013-01-11 16:07:09 keyword-selection {[automation],stash,1.000000} 
+2013-01-11 16:07:19 keyword-selection {[robot],stash,1.000000} {[automation],underdocument,1.000000} 
+2013-01-11 16:07:37 bookmark {Present and future robot control development - An industrial perspective} {T Brogardh} {4fc78f19573ce55d72000c2e}

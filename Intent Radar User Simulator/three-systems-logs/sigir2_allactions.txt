@@ -1,0 +1,31 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-10 10:33:24 query-type {semantics search}
+2013-01-10 10:36:15 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2013-01-10 10:37:21 query-type {techniques used to acquire semantics in search process}
+2013-01-10 10:39:54 bookmark {Using probabilistic latent semantic analysis for personalized web search} {C X Lin, G R Xue, H J Zeng, Y Yu} {4faba905573ce5256b0001b6}
+2013-01-10 10:39:58 bookmark {An Effective Document Search Technique by Semantic Relationship Approach} {S Chatvichienchai, K Tanaka} {502e7044573ce57a280000bd}
+2013-01-10 10:42:44 bookmark {Avatar semantic search a database approach to information retrieval} {Eser Kandogan, Rajasekar Krishnamurthy, Sriram Raghavan, Shivakumar Vaithyanathan, Huaiyu Zhu} {4fc75c5d573ce55d720005d7}
+2013-01-10 10:43:33 keyword-selection {[resource description framework],stash,1.000000} 
+2013-01-10 10:44:53 bookmark {Efficient semantic-based content search in P2P network} {H T Shen, Y F Shu, B Yu} {4fd05a60573ce5036400006f}
+2013-01-10 10:45:18 keyword-selection {[hierarchical summary],stash,1.000000} 
+2013-01-10 10:46:43 query-type {practical implementation of semantic search}
+2013-01-10 10:47:27 keyword-selection {[implementation],stash,1.000000} 
+2013-01-10 10:47:38 keyword-selection {[implementation],stash,1.000000} {[semantic search],stash,1.000000} 
+2013-01-10 10:50:10 query-type {language used in  implementation of semantic search}
+2013-01-10 10:53:22 bookmark {Semantic video search using natural language queries} {Asaad Hakeem, Mun Wai Lee, Omar Javed, Niels Haering} {4fc75c5e573ce55d720005fe}
+2013-01-10 10:53:32 keyword-selection {[sparql],stash,1.000000} 
+2013-01-10 10:55:28 bookmark {Semantically enabled exploratory video search} {J&#246;rg Waitelonis, Harald Sack, Johannes Hercher, Zalan Kramer} {4faba907573ce5256b0001dc}
+2013-01-10 10:56:14 query-type {research areas of semantic search}
+2013-01-10 10:57:04 bookmark {The Research of Search Engine Based on Semantic Web} {Y Jin, Z Y Lin, H W Lin} {502e7044573ce57a280000a2}
+2013-01-10 10:57:12 keyword-selection {[semantic search engine],stash,1.000000} 
+2013-01-10 10:58:35 query-type {methods used in organizing results in semantic search}
+2013-01-10 10:59:40 bookmark {CLUSTERING WEB SEARCH RESULTS USING SEMANTIC INFORMATION} {H Wen, G S Huang, Z Li} {502e7045573ce57a280000c0}
+2013-01-10 10:59:58 keyword-selection {[search result organization],stash,1.000000} 
+2013-01-10 11:00:38 bookmark {Topic-driven web search result organization by leveraging wikipedia semantic knowledge} {Xianpei Han, Jun Zhao} {4fcc9e4d573ce567e5000551}
+2013-01-10 11:01:19 keyword-selection {[graph model],stash,1.000000} {[search result organization],stash,1.000000} 
+2013-01-10 11:03:07 bookmark {Learn from web search logs to organize search results} {Xuanhui Wang, ChengXiang Zhai} {4fcc9e4d573ce567e5000589}
+2013-01-10 11:05:04 query-type {role of web technologies in semantic search}
+2013-01-10 11:05:27 keyword-selection {[semantic web technologies],stash,1.000000} {[searching],underdocument,1.000000} {[semantics],underdocument,1.000000} 
+2013-01-10 11:06:22 keyword-selection {[semantic web technologies],stash,1.000000} {[web 2_0],stash,1.000000} 
+2013-01-10 11:06:31 keyword-selection {[semantic web technologies],stash,1.000000} {[web 2_0],stash,1.000000} {[web technology],stash,1.000000} 
+2013-01-10 11:06:54 bookmark {Accessibility of emerging rich web technologies web 2.0 and the semantic web} {Michael Cooper} {4f58ce52573ce529b2000b9d}

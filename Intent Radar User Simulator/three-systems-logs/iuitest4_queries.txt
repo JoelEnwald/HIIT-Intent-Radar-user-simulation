@@ -1,0 +1,6 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2012-10-09 15:04:24" 3 1 0
+"robotics subfields" "2012-10-09 15:07:21" 3 1 0
+"robotics" "2012-10-09 15:09:24" 1 1 0
+"robotics algorithms" "2012-10-09 15:10:44" 0 1 0
+"common robotics algorithms" "2012-10-09 15:12:30" 3 1 0

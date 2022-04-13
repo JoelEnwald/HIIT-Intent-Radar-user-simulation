@@ -1,0 +1,38 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-10 14:31:39 query-type {robotics}
+2013-01-10 14:31:59 keyword-selection {[mobile robots],stash,1.000000} 
+2013-01-10 14:32:34 keyword-selection {[medical robotics],stash,1.000000} 
+2013-01-10 14:33:23 bookmark {A perspective on medical robotics} {R H Taylor} {4fc78f26573ce55d72000ccc}
+2013-01-10 14:34:01 bookmark {Cooperative mobile robotics: Antecedents and directions} {Y U Cao, A S Fukunaga, A B Kahng} {4fc78f26573ce55d72000cd1}
+2013-01-10 14:34:30 bookmark {Medical robotics in computer-integrated surgery} {R H Taylor, D Stoianovici} {5071de10573ce54e28000183}
+2013-01-10 14:34:54 bookmark {Surgical robotics: An introduction} {U Rembold, C R Burghart} {4fc78f26573ce55d72000cf7}
+2013-01-10 14:34:57 bookmark {Robotics, a Valuable Tool in Surgery} {A Casals, M Frigola, J Amat} {4fc78f27573ce55d72000d56}
+2013-01-10 14:36:03 query-type {autonomous robotics}
+2013-01-10 14:37:06 bookmark {Simultaneous sensing of location and mapping for autonomous robots} {R Bloss} {4fcdab60573ce567e5000651}
+2013-01-10 14:37:23 bookmark {SimBot - A simulation tool for autonomous robots} {D J Turnell, M DQVT Turnell} {5071dc20573ce54e28000087}
+2013-01-10 14:37:39 keyword-selection {[robot control],stash,1.000000} 
+2013-01-10 14:37:59 bookmark {Path optimisation of a mobile robot using an artificial neural network controller} {M K Singh, D R Parhi} {5072bd5a573ce54e280019ae}
+2013-01-10 14:38:27 keyword-selection {[performance],stash,1.000000} {[autonomous robots],stash,1.000000} {[learning],stash,1.000000} {[path planning],stash,1.000000} 
+2013-01-10 14:38:35 bookmark {Multiple objective genetic algorithms for path-planning optimization in autonomous mobile robots} {O Castillo, L Trujillo, P Melin} {4fdb959d573ce541b6000b46}
+2013-01-10 14:38:51 bookmark {A path tracking control algorithm for autonomous mobile robot} {M Crnekovic, M Kirola} {5071de82573ce54e280001dd}
+2013-01-10 14:39:07 bookmark {Local path re-planning for unforeseen obstacle avoidance by an autonomous sweeping robot} {D Kurabayashi, S Koga, T Arai, J Ota, H Asama, I Endo} {50734659573ce5519c0001d6}
+2013-01-10 14:39:35 query-type {robotics}
+2013-01-10 14:40:10 bookmark {Entertainment robotics} {Manuela M. Veloso} {4fdc2d44573ce541b6000feb}
+2013-01-10 14:40:13 bookmark {Effects of observation of robot-robot communication on human-robot communication} {T Kanda, H Ishiguro, T Ono, M Imai, R Nakatsu} {4fc78f18573ce55d72000baf}
+2013-01-10 14:40:38 keyword-selection {[robot clustering],stash,1.000000} {[service robots],stash,1.000000} 
+2013-01-10 14:41:33 keyword-selection {[robot clustering],stash,1.000000} {[parallel robots],stash,1.000000} {[service robots],stash,1.000000} 
+2013-01-10 14:41:39 bookmark {Robot clustering} {C Lee, M Kim, S Kazadi} {506c073d573ce5296d000020}
+2013-01-10 14:49:13 query-type {robotics learning}
+2013-01-10 14:51:43 query-type {robotics learning supervised}
+2013-01-10 14:51:57 keyword-selection {[supervised learning],stash,1.000000} {[navigation],stash,1.000000} {[reinforcement learning],stash,1.000000} {[vision],stash,1.000000} 
+2013-01-10 14:52:11 bookmark {A brainlike learning system with supervised, unsupervised, and reinforcement learning} {T Sasakawa, J Hu, K Hirasawa} {4fc47673573ce54f8d000094}
+2013-01-10 14:52:28 bookmark {Collaborative supervision of machine vision systems: Breaking a sequentialbottleneck in the supervised learning process} {S Drew, S Venema, P Sheridan, C Z Sun} {4f60a492573ce5527e000264}
+2013-01-10 14:52:36 bookmark {Vision processing for robot learning} {U Nehmzow} {4fc47673573ce54f8d000081}
+2013-01-10 14:54:20 bookmark {A fuzzy controller with supervised learning assisted reinforcement learning algorithm for obstacle avoidance} {C Ye, N HC Yung, D W Wang} {4fc60405573ce558f300089c}
+2013-01-10 14:54:27 bookmark {Learning perception for indoor robot navigation with a hybrid hidden Markov model/recurrent neural networks approach} {E Trentin, R Cattoni} {4fd9d01d573ce5380500061b}
+2013-01-10 14:57:16 bookmark {Subspace learning-based dimensionality reduction in building recognition} {J Li, N M Allinson} {4fcdef78573ce567e2000478}
+2013-01-10 14:58:16 bookmark {A multi-range vision strategy for autonomous offroad navigation} {R Hadsell, A Erkan, P Sermanet, J Ben, K Kavukcuoglu, U Muller, Y Lecun} {50eeb96c573ce5342e0008a3}
+2013-01-10 14:58:32 bookmark {Recurrent neural networks for reinforcement learning: Architecture, learning algorithms and internal representation} {A Onat, H Kita, Y Nishikawa} {502e2e04573ce574aa00011f}
+2013-01-10 14:59:23 keyword-selection {[demonstration],stash,1.000000} 
+2013-01-10 15:00:07 query-type {robotics learning algorithms}
+2013-01-10 15:00:38 bookmark {A practical comparison of three robot learning from demonstration algorithms} {Russell Toris, Halit Bener Suay, Sonia Chernova} {5071e0dd573ce54e2800046b}

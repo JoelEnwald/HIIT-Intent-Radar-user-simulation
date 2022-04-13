@@ -1,0 +1,5 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2012-10-10 02:09:33" 3 1 0
+"robot soccer" "2012-10-10 02:13:59" 2 1 0
+"multi-agent systems" "2012-10-10 02:16:22" 0 1 0
+"multi-agent systems robotics" "2012-10-10 02:17:18" 1 1 0

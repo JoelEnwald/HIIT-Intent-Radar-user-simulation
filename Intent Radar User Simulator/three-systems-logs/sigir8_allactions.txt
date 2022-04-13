@@ -1,0 +1,18 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 11:49:19 query-type {semantic search}
+2013-01-11 11:52:36 query-type { semantic search method}
+2013-01-11 11:55:25 query-type { semantic search}
+2013-01-11 11:56:00 keyword-selection {[indexing],stash,1.000000} {[information retrieval],stash,1.000000} 
+2013-01-11 11:56:50 keyword-selection {[evaluation],stash,1.000000} {[indexing],stash,1.000000} {[information retrieval],stash,1.000000} 
+2013-01-11 11:57:20 keyword-selection {[indexing],stash,1.000000} 
+2013-01-11 11:57:48 bookmark {A WWW intelligent information retrieval system utilizing a semantic associative search method} {Y Kiyoki, X Chen, T Kitagawa} {502e7045573ce57a280000d7}
+2013-01-11 11:59:21 keyword-selection {[summarization],stash,1.000000} {[indexing],stash,1.000000} 
+2013-01-11 12:01:37 query-type { semantic search organizing}
+2013-01-11 12:03:03 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2013-01-11 12:06:42 keyword-selection {[topic detection],stash,1.000000} 
+2013-01-11 12:07:01 bookmark {Topic-driven web search result organization by leveraging wikipedia semantic knowledge} {Xianpei Han, Jun Zhao} {4fcc9e4d573ce567e5000551}
+2013-01-11 12:07:54 bookmark {Evaluating topic-driven web crawlers} {Filippo Menczer, Gautam Pant, Padmini Srinivasan, Miguel E. Ruiz} {50b70d64573ce52471000c00}
+2013-01-11 12:13:32 keyword-selection {[clustering],stash,1.000000} 
+2013-01-11 12:18:11 query-type { semantic search research}
+2013-01-11 12:18:24 query-type { semantic search evaluation}
+2013-01-11 12:18:42 bookmark {Methodology and campaign design for the evaluation of semantic search tools} {Stuart N. Wrigley, Dorothee Reinhard, Khadija Elbedweihy, Abraham Bernstein, Fabio Ciravegna} {4faba907573ce5256b0001e3}

@@ -1,0 +1,164 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-17 09:41:53 query-type {semantic search}
+2013-01-17 09:42:00 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2013-01-17 09:42:01 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd8573ce54d20000545}
+2013-01-17 09:42:02 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2013-01-17 09:42:04 bookmark {Search on the semantic Web} {L Ding, T Finin, A Joshi, Y Peng, R Pan, P Reddivari} {4faba905573ce5256b0001bc}
+2013-01-17 09:42:06 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2013-01-17 09:42:10 bookmark {Towards semantic search} {R Baeza-Yates, M Ciaramita, P Mika, H Zaragoza} {502e7044573ce57a2800009e}
+2013-01-17 09:42:13 bookmark {The usability of semantic search tools: a review} {V Uren, Y G Lei, V Lopez, H M Liu, E Motta, M Giordanino} {4faba906573ce5256b0001c8}
+2013-01-17 09:42:16 bookmark {SemSearch: A search engine for the semantic web} {Y G Lei, V Uren, E Motta} {4faba905573ce5256b0001c3}
+2013-01-17 09:42:18 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba905573ce5256b0001b8}
+2013-01-17 09:42:21 bookmark {Inductive reasoning and semantic web search} {Claudia d'Amato, Floriana Esposito, Nicola Fanizzi, Bettina Fazzinga, Georg Gottlob, Thomas Lukasiewicz} {4faba5f4573ce5256b000174}
+2013-01-17 09:42:22 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba903573ce5256b00019e}
+2013-01-17 09:42:25 bookmark {Image Semantic Search Engine} {C Q Lv, T Kobayashi, K Agusa, K Wu, Q Zhu} {502e7044573ce57a280000a0}
+2013-01-17 09:42:27 bookmark {Using BM25F for semantic search} {Jos&#233; R. P&#233;rez-Ag&#252;era, Javier Arroyo, Jane Greenberg, Joaquin Perez Iglesias, Victor Fresno} {4faba907573ce5256b0001e1}
+2013-01-17 09:42:38 bookmark {Semantic search engines} {A Calsavara, G Schmidt} {4faba905573ce5256b0001b4}
+2013-01-17 09:43:04 keyword-movement {[semantic web],local,1.000000} {[information retrieval],local,1.000000} 
+2013-01-17 09:43:13 bookmark {Semantic Association Search and Rank Method based on Spreading Activation for the Semantic Web} {M Lee, W Kim} {502e7044573ce57a280000a9}
+2013-01-17 09:43:18 bookmark {The HWS hybrid web search} {L X Han, G H Chen} {4faba5f2573ce5256b00015f}
+2013-01-17 09:43:26 bookmark {A relation-based search engine in Semantic Web} {Y F Li, Y Wang, X T Huang} {4faba907573ce5256b0001d5}
+2013-01-17 09:43:28 bookmark {SWHi system description: A case study in information retrieval, inference,and visualization in the Semantic Web} {I Fahmi, J T Zhang, H Ellermann, G Bouma} {506d4ed5573ce53103000049}
+2013-01-17 09:43:37 bookmark {Research on the Modeling of Semantic-Based Web Resources Feature} {J X Chen, Q Xu, X J Gu, G N Qi, H F Zhan} {506d520f573ce531030002e9}
+2013-01-17 09:43:40 bookmark {Matchmaking of semantic web services using semantic-distance information} {M Senvar, A Bener} {4fd05a5e573ce50364000063}
+2013-01-17 09:43:42 bookmark {A Relation-Based Page Rank Algorithm for Semantic Web Search Engines} {F Lamberti, A Sanna, C Demartini} {4faba907573ce5256b0001e0}
+2013-01-17 09:43:47 bookmark {CLUSTERING WEB SEARCH RESULTS USING CONCEPTUAL GROUPING} {H M Li, C X Sun, K J Wang} {506adb6b573ce51f1b000179}
+2013-01-17 09:43:54 bookmark {On Variety of Semantic Search Systems and Their Evaluation Methods} {D Strasunskas, S Tomassen} {502e7044573ce57a280000b6}
+2013-01-17 09:44:04 bookmark {Developing a semantic-enable information retrieval mechanism} {M Y Chen, H C Chu, Y M Chen} {4fc4a58e573ce55805000031}
+2013-01-17 09:44:11 bookmark {A WWW intelligent information retrieval system utilizing a semantic associative search method} {Y Kiyoki, X Chen, T Kitagawa} {502e7045573ce57a280000d7}
+2013-01-17 09:44:15 bookmark {RSS: A framework enabling ranked search on the semantic web} {X M Ning, H Jin, H Wu} {4faba906573ce5256b0001ca}
+2013-01-17 09:44:19 bookmark {Is there anything worth finding on the semantic web?} {Harry Halpin} {4fc61053573ce558f3000c16}
+2013-01-17 09:44:23 bookmark {Falcons searching and browsing entities on the semantic web} {Gong Cheng, Weiyi Ge, Yuzhong Qu} {4faba904573ce5256b0001a2}
+2013-01-17 09:45:06 keyword-movement {[object retrieval],semilocal,1.000000} {[linked data],local,1.000000} {[semantic modeling],local,1.000000} 
+2013-01-17 09:45:28 bookmark {Semantic-driven multimedia retrieval with the MPEG Query Format} {R Tous, J Delgado} {4fd05a60573ce5036400006e}
+2013-01-17 09:45:42 bookmark {Development of a semantic web based mobile local search system} {Joo Seong Jeon, Gi Jeong Lee} {4faba903573ce5256b00019d}
+2013-01-17 09:45:44 bookmark {A smart web query method for semantic retrieval of web data} {R HL Chiang, C EH Chua, V C Storey} {4faba904573ce5256b0001a8}
+2013-01-17 09:45:48 bookmark {Semantic search on heterogeneous Wiki systems} {Fabrizio Orlandi, Alexandre Passant} {4faba907573ce5256b0001da}
+2013-01-17 09:45:51 bookmark {The TSTS Method in Cultural Heritage Search} {M Stawniak, W Cellary} {5035eb75573ce57c9e001932}
+2013-01-17 09:45:56 bookmark {A smart web query engine for semantic retrieval of web data and its application to e-trading} {R HL Chiang, C Chua, V C Storey} {4fd05a5f573ce50364000067}
+2013-01-17 09:46:01 bookmark {Towards a scalable search and query engine for the web} {Aidan Hogan, Andreas Harth, J&#252;rgen Umrich, Stefan Decker} {4fc78e2f573ce55d72000ac6}
+2013-01-17 09:46:03 bookmark {A semantic search system using query definitions} {A. K. Sharma, Neelam Duhan, Bharti Sharma} {4fc75c5e573ce55d7200061c}
+2013-01-17 09:46:14 bookmark {Semantic-Distance Based Clustering for XML Keyword Search} {W D Yang, H Zhu} {506d520e573ce531030002e2}
+2013-01-17 09:46:22 bookmark {Semantic web technologies to automate searching for geospatial data} {Nancy Wiegand} {4faba904573ce5256b0001a4}
+2013-01-17 09:46:24 bookmark {Semantic-based thematic search for personalized e-learning} {Y Y Li, R H Huang} {4fdb1a84573ce53bab001198}
+2013-01-17 09:46:31 bookmark {Combining weights with fuzziness for intelligent semantic web search} {H Jin, X M Ning, W J Jia, H Wu, G L Lu} {4fc75c5e573ce55d72000621}
+2013-01-17 09:46:46 bookmark {Toward a semantic search engine based on ontologies} {W D Fang, L Zhang, Y X Wang, S B Dong} {502e7045573ce57a280000c5}
+2013-01-17 09:47:24 keyword-movement {[data retrieval],local,1.000000} {[conceptual grouping],semilocal,1.000000} {[semantic web],local,1.000000} {[semantic search techniques],semilocal,1.000000} 
+2013-01-17 09:47:41 bookmark {Semantic-based discovery to support mobile context-aware service access} {A Toninelli, A Corradi, R Montanari} {4fd059fd573ce50364000061}
+2013-01-17 09:47:48 bookmark {Is there anything worth finding on the semantic web?} {Harry Halpin} {4fc61053573ce558f3000c16}
+2013-01-17 09:47:51 bookmark {Augmenting search with corpus-derived semantic relevance} {Z Mason} {502e7045573ce57a280000cb}
+2013-01-17 09:48:04 bookmark {Semantic-based surveillance video retrieval} {W M Hu, D Xie, Z Y Fu, W R Zeng, S Maybank} {4fd05a5f573ce50364000065}
+2013-01-17 09:48:06 bookmark {SemFace: A Human Face Search Engine Based on the Semantic Web} {H Hourani, M Al Rawi, A L Abu, S Jeschke} {502e7233573ce57a280000e7}
+2013-01-17 09:48:11 bookmark {Image semantics discovery from web pages for semantic-based image retrieval using self-organizing maps} {H C Yang, C H Lee} {4fce04a9573ce567e5000a68}
+2013-01-17 09:48:18 bookmark {Agents-based Intelligent Retrieval Framework for the Semantic Web} {Y Xiao, M Xiao, F Zhang} {5031f0fd573ce57c9e000812}
+2013-01-17 09:48:23 bookmark {Semantic similarity search on semistructured data with the XXL search engine} {R Schenkel, A Theobald, G Weikum} {4fc75c5d573ce55d720005f5}
+2013-01-17 09:48:27 bookmark {Semantic annotation and search of cultural-heritage collections: The MultimediaN E-Culture demonstrator} {G Schreiber, A Amin, L Aroyo, M van Assem, V de Boer, L Hardman, M Hildebrand, B Omelayenko, J van Osenbruggen, A Tordai, J Wielemaker, B Wielinga} {4fc75c5e573ce55d72000601}
+2013-01-17 09:48:42 bookmark {Distributed semantic search for the web a multiagent approach} {Murat &#350;ensoy} {4faba903573ce5256b00019c}
+2013-01-17 09:48:45 bookmark {Semantic-based information retrieval of biomedical data} {Peng Yan, Yu Jiao, Ali R. Hurson, Thomas E. Potok} {4fc4a58e573ce5580500002a}
+2013-01-17 09:48:49 bookmark {Construction of Ontology based Semantic-Linguistic Feature Vectors for Searching: the Process and Effect} {S L Tomassen, D Strasunskas} {506d520f573ce531030002ed}
+2013-01-17 09:48:52 bookmark {SemRank ranking complex relationship search results on the semantic web} {Kemafor Anyanwu, Angela Maduko, Amit Sheth} {4faba903573ce5256b00019f}
+2013-01-17 09:48:54 bookmark {Semantic search using modular ontology learning and case-based reasoning} {Nesrine Ben Mustapha, Hajer Baazaoui Zghal, Marie-Aude Aufaure, Henda ben Ghezala} {4fc75c5e573ce55d72000612}
+2013-01-17 09:48:59 bookmark {Semantically enabled exploratory video search} {J&#246;rg Waitelonis, Harald Sack, Johannes Hercher, Zalan Kramer} {4faba907573ce5256b0001dc}
+2013-01-17 09:49:36 keyword-movement {[semantic annotation],semilocal,0.958609} {[ranked retrieval],semilocal,1.000000} {[semistructured data],semilocal,1.000000} {[query-by-semantic-description],semilocal,1.000000} {[semantic-based information retrieval],semilocal,1.000000} 
+2013-01-17 09:50:14 bookmark {Using semantic, geographical, and temporal relationships to enhance searchand retrieval in digital catalogs} {K Tochtermann, W F Riekert, G Wiest} {506d5210573ce531030002ef}
+2013-01-17 09:50:17 bookmark {Evaluating usability and precision of visual search engine} {Leyla Zhuhadar, Olfa Nasraoui} {4fcc9e4d573ce567e5000577}
+2013-01-17 09:50:21 bookmark {Avatar semantic search a database approach to information retrieval} {Eser Kandogan, Rajasekar Krishnamurthy, Sriram Raghavan, Shivakumar Vaithyanathan, Huaiyu Zhu} {4fc75c5d573ce55d720005d7}
+2013-01-17 09:50:34 bookmark {The Research of the Semantic Search Engine based on the Ontology} {Z Q Du, J Hu, H X Yi, J Z Hu} {502e7044573ce57a280000ac}
+2013-01-17 09:50:46 bookmark {Semantic-Linguistic Feature Vectors for Search: Unsupervised Construction and Experimental Validation} {S L Tomassen, D Strasunskas} {506d520f573ce531030002e4}
+2013-01-17 09:50:50 bookmark {Sniper: A Domain Semantic Search Engine} {H Q Jiang, L Y Fang, Y F Li, J Z Yan, B Shi} {502e7044573ce57a280000a3}
+2013-01-17 09:51:24 keyword-movement {[ontology],local,1.000000} {[semantic distance],local,1.000000} {[database approach to retrieval],semilocal,0.000000} {[information retrieval],local,1.000000} 
+2013-01-17 09:52:22 bookmark {An ontology-driven approach to web search analysis of its sensitivity to ontology quality and search tasks} {Stein L. Tomassen, Darijus Strasunskas} {4fc75c5e573ce55d7200062f}
+2013-01-17 09:52:29 bookmark {GoNTogle: A Tool for Semantic Annotation and Search} {G Giannopoulos, N Bikakis, T Dalamagas, T Sellis} {506d520e573ce531030002e1}
+2013-01-17 09:52:35 bookmark {An effective semantic search technique using ontology} {Jihyun Lee, Jun-Ki Min, Chin-Wan Chung} {4fc75c5d573ce55d720005e4}
+2013-01-17 09:53:25 keyword-movement {[ranking],semilocal,0.990815} {[semantic similarity],semilocal,1.000000} {[semantic modeling],local,1.000000} {[semantic technologies],semilocal,1.000000} 
+2013-01-17 09:53:33 bookmark {Web-assisted annotation, semantic indexing and search of television and radio news} {Mike Dowman, Valentin Tablan, Hamish Cunningham, Borislav Popov} {4faba904573ce5256b0001a5}
+2013-01-17 09:53:35 bookmark {Semantically driven snippet selection for supporting focused web searches} {I Varlamis, S Stamou} {4fcca129573ce567e50005e4}
+2013-01-17 09:53:38 bookmark {A hybrid approach for searching in the semantic web} {Cristiano Rocha, Daniel Schwabe, Marcus Poggi Aragao} {4fc75c5d573ce55d720005f2}
+2013-01-17 09:53:39 bookmark {Falconer once SIOC meets semantic search engine} {Gang Wu, Mengdong Yang, Ke Wu, Guilin Qi, Yuzhong Qu} {4faba906573ce5256b0001d0}
+2013-01-17 09:53:43 bookmark {Learning and inferencing in user ontology for personalized Semantic Web search} {X Jiang, A H Tan} {4fc78e2f573ce55d72000a8e}
+2013-01-17 09:53:45 bookmark {Automatic extraction of web search interface based on visual features} {Y L Zhang, J Y Qiao} {506d52ce573ce53103000311}
+2013-01-17 09:54:14 keyword-movement {[semantic web],local,0.356566} {[ontology],local,0.308836} {[web resources],local,0.382902} {[similarity],semilocal,0.725942} 
+2013-01-17 09:54:43 bookmark {Building a Collaborative Semantic-Aware Framework for Search} {A Carbonaro} {506d520f573ce531030002e8}
+2013-01-17 09:55:00 bookmark {Semantic-enhanced personalized recommender system} {R Q Wang, F S Kong} {506b3f91573ce51f1b000887}
+2013-01-17 09:56:41 keyword-movement {[semantic web],local,0.304280} {[semantic search techniques],semilocal,0.382049} {[web resources],semilocal,0.354339} {[semantic web applications],semilocal,0.395949} {[word sense disambiguation],semilocal,1.000000} 
+2013-01-17 09:57:29 bookmark {Framework for synthesizing semantic-level indices} {A Mittal, L F Cheong} {4fdf0b0c573ce5456c000bec}
+2013-01-17 09:57:38 bookmark {SEMANTIC-PARSING BASED ON SEMANTIC UNITS THEORY - A NEW APPROACH TO NATURAL LANGUAGES PROCESSING} {X Y Gao, H Yue, L Li, Q S Gao} {4fd05a74573ce50364000079}
+2013-01-17 09:57:54 bookmark {Semantic-associative visual content labelling and retrieval: A multimodal approach} {M Zhu, A Badii} {4fd05a5f573ce5036400006a}
+2013-01-17 09:58:35 query-type {semantic search}
+2013-01-17 09:59:46 keyword-movement {[document retrieval],local,1.000000} {[semantic web],semilocal,0.000000} {[information retrieval],local,1.000000} 
+2013-01-17 09:59:57 bookmark {Object of interest-based visual navigation, retrieval, and semantic content identification system} {K Idrissi, G Lavoue, J Ricard, A Baskurt} {4fce0a76573ce576a3000000}
+2013-01-17 10:00:03 bookmark {Can high-level concepts fill the semantic gap in video retrieval? A case study with broadcast news} {A Hauptmann, R Yan, W H Lin, M Christel, H Wactlar} {4fce0a76573ce576a3000002}
+2013-01-17 10:00:05 bookmark {How many high-level concepts will fill the semantic gap in news video retrieval?} {Alexander Hauptmann, Rong Yan, Wei-Hao Lin} {4fce0a76573ce576a3000001}
+2013-01-17 10:00:08 bookmark {Within-document retrieval: A user-centred evaluation of relevance profiling} {D J Harper, I Koychev, Y X Sun, I Pirie} {4fd9cbc8573ce5371a0001cb}
+2013-01-17 10:00:31 bookmark {Natural language processing for information retrieval: the time is ripe (again)} {Matthew Lease} {4fd0a9ea573ce509610004bd}
+2013-01-17 10:00:48 bookmark {Image retrieval++ - web image retrieval with an enhanced multi-modality ontology} {H Wang, L T Chia, S Liu} {4fce0a77573ce576a3000011}
+2013-01-17 10:01:40 bookmark {Level search schemes for information filtering and retrieval} {X Y Zhang, M W Berry, P Raghavan} {506d520f573ce531030002e5}
+2013-01-17 10:01:49 keyword-movement {[semantic search engine],local,1.000000} {[latent semantic indexing],local,1.000000} {[semantic search],local,1.000000} 
+2013-01-17 10:02:05 bookmark {Placing search in context the concept revisited} {None} {4fc78e2f573ce55d72000ab6}
+2013-01-17 10:02:08 bookmark {Probabilistic question answering on the web} {Dragomir Radev, Weiguo Fan, Hong Qi, Harris Wu, Amardeep Grewal} {4fd0a4d2573ce509610001cc}
+2013-01-17 10:02:11 bookmark {A Latent Semantic Analysis Based Method of Getting the Category Attribute of Words} {Z L Jiang, C D Lu} {5035eb75573ce57c9e00192e}
+2013-01-17 10:02:14 bookmark {Placing search in context: The concept revisited} {L Finkelstein, E Gabrilovich, Y Matias, E Rivlin, Z Solan, G Wolfman, E Ruppin} {506d520f573ce531030002ec}
+2013-01-17 10:02:26 bookmark {Using semantic components to search for domain-specific documents: An evaluation from the system perspective and the user perspective} {S L Price, M L Nielsen, L ML Delcambre, P Vedsted, J Steinhauer} {4fc78e2e573ce55d72000a6e}
+2013-01-17 10:02:34 bookmark {Probabilistic information retrieval method based on differential latent semantic index space} {L Chen, N Tokuda, A Nagai} {5035eb75573ce57c9e001937}
+2013-01-17 10:02:39 bookmark {Unsupervised learning by probabilistic latent semantic analysis} {T Hofmann} {502b77e2573ce56fea000aa7}
+2013-01-17 10:03:06 bookmark {Extracting authoring information based on keywords and semantic search} {Faisal Alkhateeb, Amal Alzubi, Iyad Abu Doush, Shadi Aljawarneh, Eslam Al Maghayreh} {4fc60eae573ce558f3000aee}
+2013-01-17 10:03:37 bookmark {Query and content suggestion based on latent interest and topic class} {Noriaki Kawaeme, Hideaki Suzuki, Osamu Mizuno} {4fd9ac46573ce531bf00085f}
+2013-01-17 10:03:44 bookmark {Multi-facet product information search and retrieval using semantically annotated product family ontology} {S CJ Lim, Y Liu, W B Lee} {4fc75c5e573ce55d72000614}
+2013-01-17 10:04:52 keyword-movement {[semantic annotation],semilocal,0.000000} {[latent semantic indexing],local,1.000000} {[latent semantic analysis],local,1.000000} {[language analysis],semilocal,1.000000} {[semantic processing],local,1.000000} 
+2013-01-17 10:05:09 bookmark {A new algorithm for clustering search results} {G Mecca, S Raunich, A Pappalardo} {4fd05962573ce50364000000}
+2013-01-17 10:05:16 bookmark {A Latent Semantic Indexing-based approach to multilingual document clustering} {C P Wei, C C Yang, C M Lin} {502cb1ec573ce56fea0014b9}
+2013-01-17 10:05:22 bookmark {LSISOM - A latent semantic indexing approach to Self-Organizing Maps of document collections} {N Ampazis, S J Perantonis} {4fe06f1e573ce54975000eb6}
+2013-01-17 10:05:25 bookmark {Search-Based Automatic Web Image Annotation Using Latent Visual and Semantic Analysis} {D Y Xia, F Wu, Y T Zhuang} {502e7045573ce57a280000db}
+2013-01-17 10:05:30 bookmark {Semantic search via XML fragments a high-precision approach to IR} {Jennifer Chu-Carroll, John Prager, Krzysztof Czuba, David Ferrucci, Pablo Duboue} {4fc75c5d573ce55d720005df}
+2013-01-17 10:05:41 bookmark {Enhancing semantic search using case-based modular ontology} {Nesrine Ben Mustapha, Hajer Baazaoui Zghal, Marie-Aude Aufaure, Henda Ben Ghezala} {4fc78e2f573ce55d72000a7c}
+2013-01-17 10:05:48 bookmark {IPSILON: Incremental Parsing for Semantic Indexing of Latent Concepts} {S H Bae, B H Juang} {506d5854573ce531030004e6}
+2013-01-17 10:05:56 bookmark {Adapting Spectral Co-clustering to Documents and Terms Using Latent Semantic Analysis} {L AF Park, C A Leckie, K Ramamohanarao, J C Bezdek} {50f7b0a4573ce561c20000b2}
+2013-01-17 10:06:01 bookmark {Narrowing the semantic gap - Improved text-based web document retrieval using visual features} {R Zhao, W I Grosky} {50729717573ce54e28000e75}
+2013-01-17 10:06:20 bookmark {Semantic Retrieval Using Ontology and Document Refinement} {B Chen, X Y Tai} {506ad2db573ce51f1b0000ed}
+2013-01-17 10:06:22 bookmark {CLUSTERING WEB SEARCH RESULTS USING SEMANTIC INFORMATION} {H Wen, G S Huang, Z Li} {502e7045573ce57a280000c0}
+2013-01-17 10:06:32 query-type {semantic information retrieval}
+2013-01-17 10:06:41 bookmark {Semantics in visual information retrieval} {C Colombo, A Del Bimbo, P Pala} {4fd9a683573ce531bf0003f3}
+2013-01-17 10:06:43 bookmark {A Context-based Semantically Enhanced Information Retrieval Model} {T Cioara, I Anghel, I Salomie, M Dinsoreanu} {506acd86573ce51d1100000b}
+2013-01-17 10:06:44 bookmark {Information retrieval on the semantic web} {Urvi Shah, Tim Finin, Anupam Joshi, R. Scott Cost, James Matfield} {4fc4a58e573ce55805000001}
+2013-01-17 10:06:46 bookmark {Information retrieval by semantic similarity} {A Hliaoutakis, G Varelas, E Voutsakis, E GM Petrakis, E Milios} {4fc4a58e573ce55805000000}
+2013-01-17 10:06:48 bookmark {Using semantic roles in information retrieval systems} {P Moreda, B Navarro, M Palomar} {4fd9a684573ce531bf000412}
+2013-01-17 10:06:51 bookmark {Semantic web based information retrieval system for the users' preferences} {O Choi, S Han} {4fc4a58e573ce55805000016}
+2013-01-17 10:06:53 bookmark {Exploiting semantic annotations in information retrieval ESAIR '08} {Omar Alonso, Hugo Zaragoza} {4fd9a687573ce531bf000465}
+2013-01-17 10:07:01 bookmark {The effect of semantic index in information retrieval development} {Thanh Nguyen, Tuoi Phan} {4fc4a58e573ce5580500006b}
+2013-01-17 10:07:04 bookmark {Semantic information retrieval on the web} {E Sezer, A Yazici, U Yarimagan} {4fd9cc25573ce538050000da}
+2013-01-17 10:07:08 bookmark {Semantic term matching in axiomatic approaches to information retrieval} {Hui Fang, ChengXiang Zhai} {4fc4a58e573ce5580500001f}
+2013-01-17 10:07:11 bookmark {A multi-agent system for semantic information retrieval} {Y G Wang, E Shakshuki} {4fd9cc25573ce538050000be}
+2013-01-17 10:07:16 bookmark {Semantic web search model for information retrieval of the semantic data} {O Choi, S Yoon, M Oh, S Han} {4faba904573ce5256b0001af}
+2013-01-17 10:07:37 bookmark {An architecture for personal semantic web information retrieval system} {Haibo Yu, Tsunenori Mine, Makoto Amamiya} {4fc4a58e573ce55805000072}
+2013-01-17 10:07:39 bookmark {An architecture for personal semantic web information retrieval system} {Haibo Yu, Tsunenori Mine, Makoto Amamiya} {4fd9cc25573ce538050000e8}
+2013-01-17 10:07:43 bookmark {Semantic feedback in geographical information retrieval systems} {Franck Dumoncel, Mohamed Ould Ahmed, Mauro Gaio} {4fd9a688573ce531bf000483}
+2013-01-17 10:07:48 bookmark {SEMANTIC FIELD: A THEORETICAL PERSPECTIVE OF MODELING INFORMATION RETRIEVAL} {K Yue, W Y Liu} {4faba790573ce5256b000198}
+2013-01-17 10:07:53 bookmark {Corpus-based semantic role approach in information retrieval} {P Moreda, B Navarro, M Palomar} {4fc4a58e573ce55805000062}
+2013-01-17 10:07:57 bookmark {MedSearch: A retrieval system for medical information based on semantic similarity} {A Hliaoutakis, G Varelas, E GM Petrakis, E Milios} {4fd9cc25573ce538050000cc}
+2013-01-17 10:08:09 bookmark {An ontology-driven approach for semantic information retrieval on the Web} {Antonio M. Rinaldi} {4fc4a58f573ce558050000b8}
+2013-01-17 10:08:12 bookmark {Semantic similarity methods in wordNet and their application to information retrieval on the web} {Giannis Varelas, Epimenidis Voutsakis, Paraskevi Raftopoulou, Euripides G.M. Petrakis, Evangelos E. Milios} {4fe1813d573ce549750012f3}
+2013-01-17 10:09:49 bookmark {Information retrieval from relational databases using semantic queries} {Anand Ranganathan, Zhen Liu} {4fcc9e98573ce567e50005a8}
+2013-01-17 10:09:50 keyword-movement {[semantic indexing],local,1.000000} {[document retrieval systems],local,0.851097} 
+2013-01-17 10:10:14 bookmark {A novel semantic-based image retrieval method} {A Lakdashti, A S Moin, K Badiet} {502e3f64573ce5783f000041}
+2013-01-17 10:10:22 bookmark {ICICLE: A semantic-based retrieval system for WWW images} {H T Shen, K L Tan, X F Zhou, B Cui} {4fe04c96573ce549750006d8}
+2013-01-17 10:10:30 bookmark {A semantic-based approach to content abstraction and annotation for content management} {H C Chu, M Y Chen, Y M Chen} {4fd064f1573ce50452000015}
+2013-01-17 10:10:44 bookmark {An approach to semantic indexing and information retrieval} {M S Baron, K S Valencia} {4fcc9e98573ce567e50005ae}
+2013-01-17 10:11:33 keyword-movement {[semantic],local,1.000000} {[semantic index],semilocal,0.000000} {[medical information systems],semilocal,0.000000} {[partition],semilocal,0.097040} {[extract semantic index],semilocal,0.077986} {[merge semantic indexes],semilocal,0.365860} {[semantic gap],local,1.000000} 
+2013-01-17 10:13:49 bookmark {A survey of content-based image retrieval with high-level semantics} {Y Liu, D S Zhang, G J Lu, W Y Ma} {4f60a459573ce5527e0001f7}
+2013-01-17 10:13:51 bookmark {Bridging the gap: Query by semantic example} {N Rasiwasia, P J Moreno, N Vasconcelos} {4fce0a76573ce576a3000007}
+2013-01-17 10:14:00 bookmark {Mind the gap: Another look at the problem of the semantic gap in image retrieval} {J S Hare, P H Lewis, P GB Enser, C J Sandom} {506d564b573ce53103000480}
+2013-01-17 10:14:02 bookmark {Semantic clustering for region-based image retrieval} {Y Liu, X Chen, C C Zhang, A Sprague} {4fc78e2e573ce55d72000a6f}
+2013-01-17 10:14:06 bookmark {Towards semantic-based retrieval of visual information: A modelbased approach} {Y C Park, F Golshani, S Panchanathan} {507298fa573ce54e28000f40}
+2013-01-17 10:14:11 bookmark {An operational model based on knowledge representation for querying the image content with concepts and relations} {M Belkhatir} {5071ac1f573ce54e28000029}
+2013-01-17 10:14:23 bookmark {A semantic learning for content-based image retrieval using analytical hierarchy process} {S C Cheng, T C Chou, C L Yang, H Y Chang} {4fc75b6e573ce55d7200057f}
+2013-01-17 10:14:47 bookmark {The evolution of visual information retrieval} {P Enser} {4f742d83573ce531bf0000f8}
+2013-01-17 10:15:19 bookmark {Image Semantic Extraction Using Latent Semantic Indexing On Image Retrieval Automatic-Annotation} {Y Herdiyeni, S Nurdiati, I Abu Daud} {5072b59d573ce54e28001393}
+2013-01-17 10:16:48 keyword-movement {[intelligent retrieval],local,1.000000} {[semantic content analysis],semilocal,1.000000} 
+2013-01-17 10:17:25 bookmark {Research on graphical annotation and retrieval of image semantic} {Q Q Li, A M Yang} {502e3f64573ce5783f000039}
+2013-01-17 10:17:30 bookmark {Learning to reduce the semantic gap in web image retrieval and annotation} {Changhu Wang, Lei Zhang, Hong-Jiang Zhang} {4fce04a8573ce567e5000a42}
+2013-01-17 10:18:02 bookmark {Information retrieval on the web} {Mei Kobayashi, Koichi Takeda} {4f742d81573ce531bf0000d2}
+2013-01-17 10:18:11 bookmark {Unifying textual and visual cues for content-based image retrieval on the World Wide Web} {S Sclaroff, M La Cascia, S Sethi, L Taycher} {4ff6c109573ce57b060002c7}
+2013-01-17 10:18:12 bookmark {Image retrieval based on fuzzy semantic relevance matrix} {H J Jin, C H Liu, Z M Lu} {4fc4872a573ce5556500007b}
+2013-01-17 10:18:16 bookmark {Bridging the Semantic Gap Between Image Contents and Tags} {H Ma, J K Zhu, M RT Lyu, I King} {4fcb3653573ce567e50001ce}
+2013-01-17 10:18:26 bookmark {Semantic Information Retrieval Study Based on Knowledge Reasoning} {M Y You, L Liang, J Peng, C Y Chen} {506ad2da573ce51f1b0000cb}
+2013-01-17 10:18:42 keyword-movement {[multi-agents system],local,0.169837} {[semantic gap],local,0.249640} {[content-based image retrieval],semilocal,0.408022} 

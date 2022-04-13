@@ -1,0 +1,50 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-14 14:32:07 query-type {robotics}
+2013-01-14 14:32:46 query-type {robotics algorithm}
+2013-01-14 14:33:12 keyword-movement {[genetic algorithms],local,1.000000} 
+2013-01-14 14:37:02 bookmark {The robot systems movement optimization by genetic algorithms} {P Schreiber, P Tanuska} {5071e0db573ce54e280003b9}
+2013-01-14 14:37:14 keyword-movement {[simulated annealing],local,0.939539} 
+2013-01-14 14:37:36 keyword-movement {[shortest path],local,1.000000} 
+2013-01-14 14:39:07 keyword-movement {[recursion algorithm],local,1.000000} 
+2013-01-14 14:39:45 keyword-movement {[graph-search algorithm],local,1.000000} 
+2013-01-14 14:40:05 keyword-movement {[genetic algorithms],semilocal,0.438901} 
+2013-01-14 14:40:18 keyword-movement {[tangency contour-based],local,0.869069} 
+2013-01-14 14:41:20 query-type {robotics application}
+2013-01-14 14:41:39 keyword-movement {[simulation],local,1.000000} 
+2013-01-14 14:42:26 keyword-movement {[social robots],local,1.000000} 
+2013-01-14 14:43:36 query-type {robotics application}
+2013-01-14 14:43:55 keyword-movement {[natural language],local,1.000000} 
+2013-01-14 14:44:20 keyword-movement {[telerobotics],local,0.757017} 
+2013-01-14 14:45:07 keyword-movement {[natural-language processing],local,1.000000} 
+2013-01-14 14:46:08 keyword-movement {[mobile robots],local,1.000000} 
+2013-01-14 14:46:24 keyword-movement {[natural-language processing],local,0.972603} 
+2013-01-14 14:46:47 query-type {robotics path planning}
+2013-01-14 14:47:02 bookmark {PATH PLANNING FOR A MOBILE ROBOT} {C ALEXOPOULOS, P M GRIFFIN} {50734659573ce5519c0001ce}
+2013-01-14 14:47:13 bookmark {Using Genetic Algorithm for a Mobile Robot Path Planning} {A Ghorbani, S Shiry, A Nodehi} {5071e0dc573ce54e28000428}
+2013-01-14 14:47:31 keyword-movement {[heuristic search],local,1.000000} 
+2013-01-14 14:47:52 bookmark {Research of path planning for polishing robot based on improved genetic algorithm} {T Y Guo, D K Qu, Z L Dong} {5071e0dc573ce54e280003da}
+2013-01-14 14:47:57 bookmark {The multiple robots path-planning based on dynamic programming} {G Z Yan, Y Wang, L M Lin} {50734659573ce5519c0001d3}
+2013-01-14 14:48:10 query-type {robotics applications}
+2013-01-14 14:49:21 keyword-movement {[health care],local,1.000000} 
+2013-01-14 14:49:40 keyword-movement {[decision making],local,1.000000} 
+2013-01-14 14:49:42 keyword-movement {[health care],semilocal,0.421497} 
+2013-01-14 14:50:26 query-type {robotics applications}
+2013-01-14 14:50:52 keyword-movement {[health care],local,0.881481} 
+2013-01-14 14:51:06 bookmark {ROBOTICS FOR HEALTH-CARE - A REVIEW OF THE LITERATURE} {M KASSLER} {5072bc87573ce54e28001944}
+2013-01-14 14:51:36 bookmark {Information technology in the future of health care} {M Hatcher, I Heetebry} {4fc3cad0573ce54a81000397}
+2013-01-14 14:52:03 query-type {robotics decision making}
+2013-01-14 14:53:54 keyword-movement {[soccer robots],local,1.000000} 
+2013-01-14 14:54:50 bookmark {Application of reinforcement learning in robot soccer} {Y Duan, Q Liu, X H Xu} {4fc60405573ce558f30008b0}
+2013-01-14 14:54:59 bookmark {CS Freiburg: Coordinating robots for successful soccer playing} {T Weigel, J S Gutmann, M Dietl, A Kleiner, B Nebel} {5071de81573ce54e280001c4}
+2013-01-14 14:55:31 keyword-movement {[machine vision],local,1.000000} 
+2013-01-14 14:55:47 keyword-movement {[robot football],local,1.000000} 
+2013-01-14 14:55:56 keyword-movement {[fast visual tracking],local,0.973129} 
+2013-01-14 14:56:34 keyword-movement {[robot football],local,1.000000} 
+2013-01-14 14:56:37 keyword-movement {[robot football],local,0.897192} 
+2013-01-14 14:56:47 query-type {robotics machine vision}
+2013-01-14 14:57:42 bookmark {MACHINE VISION, ROBOT VISION, COMPUTER VISION, AND CLOSE-RANGE PHOTOGRAMMETRY} {K W WONG} {507404ba573ce5519c00101f}
+2013-01-14 14:58:08 bookmark {Robotics and machine vision for the future - An industrial view} {M Ejiri} {50eeb6b9573ce5342e0007d6}
+2013-01-14 14:59:04 keyword-movement {[image array],local,1.000000} 
+2013-01-14 15:00:11 keyword-movement {[laplacian filtering],local,1.000000} 
+2013-01-14 15:02:14 keyword-movement {[laplacian filtering],local,0.999983} 
+2013-01-14 15:02:33 keyword-movement {[computer vision],local,1.000000} 

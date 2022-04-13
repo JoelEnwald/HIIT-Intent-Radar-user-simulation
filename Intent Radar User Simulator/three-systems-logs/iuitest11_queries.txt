@@ -1,0 +1,13 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantic" "2012-10-08 11:07:16" 0 1 0
+"semantic search" "2012-10-08 11:09:29" 4 1 0
+"semantic search technology" "2012-10-08 11:13:45" 0 1 0
+"semantic search methods" "2012-10-08 11:15:26" 4 1 0
+"semantic search alhorithms" "2012-10-08 11:19:01" 0 1 0
+"semantic search algorithms" "2012-10-08 11:19:10" 4 1 0
+"semantic matching" "2012-10-08 11:20:22" 6 1 0
+"semantic web summary" "2012-10-08 11:24:05" 8 1 0
+"semantic languages" "2012-10-08 11:27:01" 3 1 0
+"semantic search languages" "2012-10-08 11:27:49" 6 1 0
+"semantic search filtering" "2012-10-08 11:36:33" 0 1 0
+"semantic search filtering" "2012-10-08 11:36:42" 3 1 0

@@ -1,0 +1,7 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantic search" "2013-01-11 11:49:19" 0 1 0
+" semantic search method" "2013-01-11 11:52:36" 0 1 0
+" semantic search" "2013-01-11 11:55:25" 1 5 0
+" semantic search organizing" "2013-01-11 12:01:37" 3 3 0
+" semantic search research" "2013-01-11 12:18:11" 0 1 0
+" semantic search evaluation" "2013-01-11 12:18:24" 1 1 0

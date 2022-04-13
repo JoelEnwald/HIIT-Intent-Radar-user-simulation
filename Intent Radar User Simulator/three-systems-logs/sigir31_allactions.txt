@@ -1,0 +1,21 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-16 09:26:41 query-type {semantic search}
+2013-01-16 09:29:09 keyword-selection {[indexing],stash,1.000000} 
+2013-01-16 09:32:57 bookmark {Semantic search using modular ontology learning and case-based reasoning} {Nesrine Ben Mustapha, Hajer Baazaoui Zghal, Marie-Aude Aufaure, Henda ben Ghezala} {4fc75c5e573ce55d72000612}
+2013-01-16 09:33:29 keyword-selection {[semantic search engine],stash,1.000000} {[rdf],stash,1.000000} {[indexing],stash,1.000000} 
+2013-01-16 09:33:40 bookmark {Image Semantic Search Engine} {C Q Lv, T Kobayashi, K Agusa, K Wu, Q Zhu} {502e7044573ce57a280000a0}
+2013-01-16 09:34:56 bookmark {Augmenting search with corpus-derived semantic relevance} {Z Mason} {502e7045573ce57a280000cb}
+2013-01-16 09:37:07 bookmark {Improving Recall and Precision of a Personalized Semantic Search Engine for E-learning} {O Nasraoui, L Zhuhadar} {502e7045573ce57a280000d0}
+2013-01-16 09:37:22 keyword-selection {[ranking],stash,1.000000} 
+2013-01-16 09:37:40 bookmark {Language-model-based ranking for queries on RDF-graphs} {Shady Elbassuoni, Maya Ramanath, Ralf Schenkel, Marcin Sydow, Gerhard Weikum} {4fe04c97573ce549750006f0}
+2013-01-16 09:41:27 query-type {semantic search web technologies}
+2013-01-16 09:44:50 bookmark {Inductive reasoning and semantic web search} {Claudia d'Amato, Floriana Esposito, Nicola Fanizzi, Bettina Fazzinga, Georg Gottlob, Thomas Lukasiewicz} {4faba5f4573ce5256b000174}
+2013-01-16 09:45:39 keyword-selection {[ontologies],stash,1.000000} 
+2013-01-16 09:50:11 query-type {semantic search ranking}
+2013-01-16 09:50:38 bookmark {RSS: A framework enabling ranked search on the semantic web} {X M Ning, H Jin, H Wu} {4faba906573ce5256b0001ca}
+2013-01-16 09:51:44 bookmark {Categorizing and ranking search engine's results by semantic similarity} {Tianyong Hao, Zhi Lu, Shitong Wang, Tiansong Zou, Shenhua GU, Liu Wenyin} {4fc75c5d573ce55d720005fc}
+2013-01-16 09:53:00 query-type {semantic search}
+2013-01-16 09:53:33 keyword-selection {[expressive semantics],stash,1.000000} 
+2013-01-16 09:54:46 keyword-selection {[search engine],stash,1.000000} 
+2013-01-16 09:55:27 bookmark {The Research of the Semantic Search Engine based on the Ontology} {Z Q Du, J Hu, H X Yi, J Z Hu} {502e7044573ce57a280000ac}
+2013-01-16 09:55:27 keyword-selection {[information extraction],stash,1.000000} 

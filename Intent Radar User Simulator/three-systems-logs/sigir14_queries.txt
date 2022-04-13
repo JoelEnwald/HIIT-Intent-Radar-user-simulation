@@ -1,0 +1,8 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2013-01-11 15:39:11" 1 3 0
+"robotics review" "2013-01-11 15:42:46" 0 4 0
+"robotics survey" "2013-01-11 15:45:41" 1 3 0
+"robotics" "2013-01-11 15:51:14" 0 1 0
+"robotics overview" "2013-01-11 15:54:05" 1 2 0
+"robotics algorithms" "2013-01-11 15:59:32" 0 3 0
+"robotics" "2013-01-11 16:03:59" 3 3 0

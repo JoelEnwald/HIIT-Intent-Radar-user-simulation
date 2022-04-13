@@ -1,0 +1,8 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantics search" "2013-01-10 10:33:24" 1 1 0
+"techniques used to acquire semantics in search process" "2013-01-10 10:37:21" 4 3 0
+"practical implementation of semantic search" "2013-01-10 10:46:43" 0 3 0
+"language used in  implementation of semantic search" "2013-01-10 10:50:10" 2 2 0
+"research areas of semantic search" "2013-01-10 10:56:14" 1 2 0
+"methods used in organizing results in semantic search" "2013-01-10 10:58:35" 3 3 0
+"role of web technologies in semantic search" "2013-01-10 11:05:04" 1 4 0

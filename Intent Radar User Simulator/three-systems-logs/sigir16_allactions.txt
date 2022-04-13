@@ -1,0 +1,56 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-10 16:30:34 query-type {robotics}
+2013-01-10 16:30:56 query-type {applications of robotics}
+2013-01-10 16:31:12 keyword-selection {[mobile robots],stash,1.000000} 
+2013-01-10 16:32:24 keyword-selection {[navigation],stash,1.000000} 
+2013-01-10 16:33:09 bookmark {Coverage, exploration and deployment by a mobile robot and communication network} {M A Batalin, G S Sukhatme} {4ffc3b69573ce510a300006b}
+2013-01-10 16:33:47 bookmark {APPLICATION OF VIRTUAL REALITY FOR VERIFICATION OF CHARACTERISTICS OF MOBILE ROBOTS} {V Mostyn, P Novak, T Kot} {5071df61573ce54e280002e7}
+2013-01-10 16:33:55 keyword-selection {[prototyping],underdocument,1.000000} 
+2013-01-10 16:34:35 query-type {robotics neural network}
+2013-01-10 16:35:25 keyword-selection {[modelling],stash,1.000000} 
+2013-01-10 16:35:54 bookmark {Path optimisation of a mobile robot using an artificial neural network controller} {M K Singh, D R Parhi} {5072bd5a573ce54e280019ae}
+2013-01-10 16:36:19 keyword-selection {[robot joint],stash,1.000000} 
+2013-01-10 16:36:56 bookmark {Repetitive motion planning of PA10 robot arm subject to joint physical limits and using LVI-based primal-dual neural network} {Y Zhang, X J Lv, Z H Li, Z Yang, K Chen} {50eed1e3573ce5342e0009f0}
+2013-01-10 16:37:47 keyword-selection {[control],underdocument,1.000000} 
+2013-01-10 16:38:12 bookmark {The neural network model of a robot joint} {J Suchy, J Skrinarova} {50eed17a573ce5342e0009c0}
+2013-01-10 16:38:25 query-type {robotics applications}
+2013-01-10 16:38:49 bookmark {Designing robot applications for everyday environments} {Sara Ljungblad, Lars Erik Holmquist} {5071df61573ce54e280002b0}
+2013-01-10 16:40:08 query-type {man-machine interaction}
+2013-01-10 16:40:21 query-type {man-machine interaction robotics}
+2013-01-10 16:40:42 bookmark {Man-machine interaction for robot applications in everyday environments} {G Von Wichert, G Lawitzky} {5071df61573ce54e280002b8}
+2013-01-10 16:40:58 keyword-selection {[man-machine interface],stash,1.000000} {[integration],stash,1.000000} 
+2013-01-10 16:41:37 keyword-selection {[robotics],stash,1.000000} {[man-machine interface],stash,1.000000} {[integration],stash,1.000000} 
+2013-01-10 16:41:52 keyword-selection {[robotics],stash,1.000000} {[man-machine interface],stash,1.000000} 
+2013-01-10 16:42:21 query-type {robotics application overview}
+2013-01-10 16:42:32 keyword-selection {[robotics],underdocument,1.000000} {[robotics applications],stash,1.000000} 
+2013-01-10 16:42:54 bookmark {Telemedicine and robotics: Paving the way to the globalization of surgery} {S Senapati, A P Advincula} {4fc78f26573ce55d72000d25}
+2013-01-10 16:43:21 keyword-selection {[space robotics],stash,1.000000} 
+2013-01-10 16:43:26 bookmark {Computer vision for space robotics: Applications, role, and performance} {P Jasiobedzki, C Anders} {5071e593573ce54e2800089c}
+2013-01-10 16:43:30 bookmark {Robotics, a Valuable Tool in Surgery} {A Casals, M Frigola, J Amat} {4fc78f27573ce55d72000d56}
+2013-01-10 16:43:57 keyword-selection {[robotics applications],underdocument,1.000000} {[space robotics],stash,1.000000} 
+2013-01-10 16:44:08 bookmark {Multi-Robot Cooperation in Space: A Survey} {J Leitner} {5071de0f573ce54e28000123}
+2013-01-10 16:44:14 bookmark {Space robotics in Europe: A survey} {P Putz} {5071dc20573ce54e2800008b}
+2013-01-10 16:44:36 keyword-selection {[cooperative systems],stash,1.000000} 
+2013-01-10 16:44:51 query-type {robotics cooperation}
+2013-01-10 16:45:08 keyword-selection {[multi-robot],stash,1.000000} {[cooperation],underdocument,1.000000} 
+2013-01-10 16:45:22 keyword-selection {[multi-agent],stash,1.000000} 
+2013-01-10 16:45:29 bookmark {A multi-agent cooperative system of soccer robot} {Q Zhang, Y M Yang, Y Li} {5074afb5573ce5519c00182a}
+2013-01-10 16:45:48 bookmark {Multi-agent systems: A survey from the robot-soccer perspective} {J H Kim, P Vadakkepat} {4fc79068573ce55d72000f48}
+2013-01-10 16:46:22 bookmark {Modular Q-learning based multi-agent cooperation for robot soccer} {K H Park, Y J Kim, J H Kim} {4fc8c1ae573ce563550001a2}
+2013-01-10 16:46:29 bookmark {Designing distributed control architecture for cooperative multi-agent system and its real-time application to soccer robot} {H S Shim, H S Kim, M J Jung, I H Choi, J H Kim, J O Kim} {5074afb6573ce5519c001874}
+2013-01-10 16:46:58 bookmark {Emergent cooperative strategies for robot team sports} {A Agah, B Doyle, K Kuok, K Tanie} {4fc8c1ae573ce563550001ae}
+2013-01-10 16:47:23 query-type {robotics}
+2013-01-10 16:48:40 query-type {robotics manufacture}
+2013-01-10 16:49:00 keyword-selection {[manufacturing systems],stash,1.000000} {[manufacturing],underdocument,1.000000} 
+2013-01-10 16:49:13 bookmark {Intelligent manufacturing: Present state and future trends} {P Kopacek} {50eeb6b9573ce5342e0007c6}
+2013-01-10 16:49:36 keyword-selection {[manufacturing systems],stash,1.000000} {[robotic manufacturing],stash,1.000000} 
+2013-01-10 16:50:14 bookmark {Robotic system approach for complete denture manufacturing} {Y D Zhang, Z F Zhao, P J Lu, Y Wang, R J Song, J L Lu} {50eed4c8573ce5342e000acd}
+2013-01-10 16:50:24 keyword-selection {[manufacturing systems],stash,1.000000} {[robotic manufacturing],stash,1.000000} {[robot],underdocument,1.000000} 
+2013-01-10 16:50:34 keyword-selection {[manufacturing systems],stash,1.000000} {[robotic manufacturing],stash,1.000000} 
+2013-01-10 16:50:41 keyword-selection {[manufacturing systems],stash,1.000000} {[robotic manufacturing],stash,1.000000} {[robotic],stash,1.000000} 
+2013-01-10 16:51:09 query-type {robotics manufacturing}
+2013-01-10 16:51:36 bookmark {SENSORS AND INTERFACING IN ROBOTICS AND MANUFACTURING} {M JAMSHIDI} {50eed4c8573ce5342e000ac9}
+2013-01-10 16:51:50 bookmark {Modeling of manufacturing systems and robot motions} {G G Kost, R Zdanowicz} {50eed4c8573ce5342e000acb}
+2013-01-10 16:51:56 bookmark {Off-line programming of an industrial robot for manufacturing} {S Mitsi, K D Bouzakis, G Mansour, D Sagris, G Maliaris} {50eed4c8573ce5342e000aca}
+2013-01-10 16:53:23 query-type {robotics overview}
+2013-01-10 16:53:38 bookmark {INTELLIGENT ROBOTICS IN MANUFACTURING, SERVICE, AND REHABILITATION - AN OVERVIEW} {W A GRUVER} {5071de0f573ce54e2800010d}

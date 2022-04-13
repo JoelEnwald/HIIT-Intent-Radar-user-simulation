@@ -1,0 +1,8 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"semantic search" "2012-10-08 14:00:40" 8 1 0
+"semantic search aggragation" "2012-10-08 14:10:20" 6 1 0
+"semantic search aggragation approach" "2012-10-08 14:12:08" 2 1 0
+"semantic aggragation" "2012-10-08 14:16:43" 3 1 0
+"semantic web aggragation" "2012-10-08 14:17:23" 4 1 0
+"semantic web organise data" "2012-10-08 14:20:14" 5 1 0
+"technique semantic web" "2012-10-08 14:24:52" 5 1 0

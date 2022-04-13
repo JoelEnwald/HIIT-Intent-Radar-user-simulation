@@ -1,0 +1,28 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 10:16:55 query-type {robotics}
+2013-01-11 10:17:36 keyword-movement {[robotics],local,1.000000} {[robotic systems],local,1.000000} {[robotic],local,0.974831} 
+2013-01-11 10:19:52 keyword-movement {[automation],local,0.945179} 
+2013-01-11 10:20:43 keyword-movement {[automation],local,0.480250} 
+2013-01-11 10:20:57 bookmark {Robotic-assisted surgery for benign urological conditions} {D G Murphy, B J Challacombe, L UM Zaheer, M S Khan, P Dasgupta} {50c58c3a573ce56afc0000b2}
+2013-01-11 10:21:09 bookmark {A prospective analysis of 211 robotic-assisted surgical procedures} {M A Talamini, S Chapman, S Horgan, W S Melvin} {50c58c3b573ce56afc0000e0}
+2013-01-11 10:21:26 keyword-movement {[automation],local,1.000000} 
+2013-01-11 10:21:38 bookmark {Control of use of robots for manufacture of robots} {S O Babakin, V M Chadeev} {506c073d573ce5296d000005}
+2013-01-11 10:21:46 bookmark {Multi-agent systems: A survey from the robot-soccer perspective} {J H Kim, P Vadakkepat} {4fc79068573ce55d72000f48}
+2013-01-11 10:22:27 query-type {robotics algorithm}
+2013-01-11 10:22:52 bookmark {Quantum Robot: Structure, Algorithms and Applications} {Dao-Yi Dong, Chun-Lin Chen, Chen-Bin Zhang, Zong-Hai Chen} {4fdc2d45573ce541b6001014}
+2013-01-11 10:23:40 keyword-movement {[reinforcement learning],semilocal,0.000000} 
+2013-01-11 10:24:33 bookmark {A new mobile robot navigation method using fuzzy logic and a modified Q-learning algorithm} {H Boubertakh, M Tadjine, P Y Glorennec} {4fd9cf75573ce5380500057b}
+2013-01-11 10:25:05 bookmark {Bionic Learning Algorithm Based on Skinner's Operant Conditioning and Control of Robot} {X G Ruan, H G Ren} {5071e0dc573ce54e280003f7}
+2013-01-11 10:25:39 query-type {robotics subfield'}
+2013-01-11 10:25:40 query-type {robotics subfield}
+2013-01-11 10:25:58 bookmark {Is robot learning a new subfield? - The Robolearn-96 workshop} {H Hexmoor, L Meeden, R R Murphy} {5072baa7573ce54e28001810}
+2013-01-11 10:27:23 query-type {robotics branch}
+2013-01-11 10:28:31 query-type {social robotics}
+2013-01-11 10:29:08 bookmark {Social robotic telepresence} {Silvia Coradeschi, Amy Loutfi, Annica Kristoffersson, Gabriella Cortellessa, Kerstin Severinson Eklundh} {4fc78f19573ce55d72000be5}
+2013-01-11 10:29:17 bookmark {A survey of socially interactive robots} {T Fong, I Nourbakhsh, K Dautenhahn} {4fc78f26573ce55d72000d02}
+2013-01-11 10:29:39 query-type {robotics}
+2013-01-11 10:30:15 keyword-movement {[undergraduate education],local,1.000000} 
+2013-01-11 10:30:56 keyword-movement {[game development],semilocal,0.000000} 
+2013-01-11 10:31:33 query-type {robotics}
+2013-01-11 10:31:52 keyword-movement {[artificial intelligence],local,1.000000} 
+2013-01-11 10:32:41 bookmark {A NEW OBJECT REPRESENTATION FOR ROBOTICS AND ARTIFICIAL-INTELLIGENCE APPLICATIONS} {A P DELPOBIL, M A SERNA} {502e37e4573ce5758f000256}

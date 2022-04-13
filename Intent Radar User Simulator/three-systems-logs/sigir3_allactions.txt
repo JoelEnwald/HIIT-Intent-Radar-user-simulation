@@ -1,0 +1,21 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 11:15:06 query-type {semantic search}
+2013-01-11 11:18:52 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd8573ce54d20000545}
+2013-01-11 11:19:17 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2013-01-11 11:20:26 bookmark {SemSearch'11 the 4th semantic search workshop} {Thanh Tran, Peter Mika, Haofen Wang, Marko Grobelnik} {4faba907573ce5256b0001d8}
+2013-01-11 11:22:18 keyword-movement {[semantic web search],local,0.475738} {[search],semilocal,0.696334} {[semantic search],local,1.000000} 
+2013-01-11 11:25:26 bookmark {Inductive reasoning and semantic web search} {Claudia d'Amato, Floriana Esposito, Nicola Fanizzi, Bettina Fazzinga, Georg Gottlob, Thomas Lukasiewicz} {4faba5f4573ce5256b000174}
+2013-01-11 11:30:37 keyword-movement {[semantic web technologies],local,1.000000} {[semantic search],local,1.000000} {[semantic web search],local,0.469918} 
+2013-01-11 11:32:06 bookmark {Semantic search on heterogeneous Wiki systems} {Fabrizio Orlandi, Alexandre Passant} {4faba907573ce5256b0001da}
+2013-01-11 11:32:27 keyword-movement {[mediawiki],local,1.000000} {[dokuwiki],local,0.997197} 
+2013-01-11 11:34:12 bookmark {Falconer once SIOC meets semantic search engine} {Gang Wu, Mengdong Yang, Ke Wu, Guilin Qi, Yuzhong Qu} {4faba906573ce5256b0001d0}
+2013-01-11 11:35:43 keyword-movement {[mediawiki],local,0.323613} {[sioc],local,0.334755} {[ontology],local,0.888045} {[wikis],local,0.318268} {[dokuwiki],local,0.283517} 
+2013-01-11 11:38:16 query-type {semantic search practical}
+2013-01-11 11:39:58 keyword-movement {[semantic web],local,1.000000} {[search engine],local,1.000000} 
+2013-01-11 11:41:14 bookmark {CLUSTERING WEB SEARCH RESULTS USING CONCEPTUAL GROUPING} {H M Li, C X Sun, K J Wang} {506adb6b573ce51f1b000179}
+2013-01-11 11:42:21 bookmark {A Semantic-based Search Engine for Traditional Medical Informatics} {Y X Mao, W Y Tian} {506d520e573ce531030002e0}
+2013-01-11 11:42:59 keyword-movement {[rdf],semilocal,0.000000} 
+2013-01-11 11:44:25 bookmark {A relation-based search engine in Semantic Web} {Y F Li, Y Wang, X T Huang} {4faba907573ce5256b0001d5}
+2013-01-11 11:44:47 bookmark {The HWS hybrid web search} {L X Han, G H Chen} {4faba5f2573ce5256b00015f}
+2013-01-11 11:46:24 bookmark {Augmenting search with corpus-derived semantic relevance} {Z Mason} {502e7045573ce57a280000cb}
+2013-01-11 11:47:09 keyword-movement {[semantic search engine],local,1.000000} 

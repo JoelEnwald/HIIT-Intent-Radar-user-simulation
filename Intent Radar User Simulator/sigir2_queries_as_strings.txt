@@ -1,0 +1,7 @@
+semantics search
+techniques used to acquire semantics in search process
+practical implementation of semantic search
+language used in  implementation of semantic search
+research areas of semantic search
+methods used in organizing results in semantic search
+role of web technologies in semantic search

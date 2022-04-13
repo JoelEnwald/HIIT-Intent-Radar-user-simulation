@@ -1,0 +1,9 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2013-01-11 10:16:55" 4 5 1
+"robotics algorithm" "2013-01-11 10:22:27" 3 2 1
+"robotics subfield'" "2013-01-11 10:25:39" 0 1 0
+"robotics subfield" "2013-01-11 10:25:40" 1 1 0
+"robotics branch" "2013-01-11 10:27:23" 0 1 0
+"social robotics" "2013-01-11 10:28:31" 2 1 0
+"robotics" "2013-01-11 10:29:39" 0 3 2
+"robotics" "2013-01-11 10:31:33" 1 2 0

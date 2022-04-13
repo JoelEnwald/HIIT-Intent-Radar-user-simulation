@@ -1,0 +1,14 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2013-01-10 14:31:09" 2 2 1
+"robotics humanoid" "2013-01-10 14:37:30" 5 1 0
+"industrial robotics" "2013-01-10 14:38:52" 3 4 2
+"robotics application" "2013-01-10 14:43:23" 3 1 0
+"robotics application everyday" "2013-01-10 14:46:12" 2 2 1
+"robotics algorithms" "2013-01-10 14:47:59" 0 2 0
+"robotics algorithm" "2013-01-10 14:49:41" 1 4 2
+"robotics algorithm" "2013-01-10 14:54:40" 0 2 0
+"robotics algorithm" "2013-01-10 14:55:20" 0 2 0
+"kalman filter" "2013-01-10 14:57:37" 0 1 0
+"kalman filter robotics" "2013-01-10 14:57:44" 3 1 0
+"robotics simulated annealing" "2013-01-10 14:58:26" 5 1 0
+"robotics" "2013-01-10 14:59:08" 0 3 1

@@ -1,0 +1,11 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-10 02:09:33 query-type {robotics}
+2012-10-10 02:09:59 bookmark {Robotics} {V Wigotsky} {506c073d573ce5296d000004}
+2012-10-10 02:10:24 bookmark {Robotic Architectures} {M Mtshali, A Engelbrecht} {4fc78f18573ce55d72000bb2}
+2012-10-10 02:12:19 bookmark {Robot soccer: A multi-robot challenge} {M M Veloso} {506c073d573ce5296d00000b}
+2012-10-10 02:13:59 query-type {robot soccer}
+2012-10-10 02:14:17 bookmark {Modelling and control of a soccer robot} {F Solc, B Honzik} {506c073e573ce5296d000068}
+2012-10-10 02:15:33 bookmark {Strategy for collaboration in robot soccer} {H L Sng, G Sen Gupta, C H Messom} {506ecd15573ce536a500000f}
+2012-10-10 02:16:22 query-type {multi-agent systems}
+2012-10-10 02:17:18 query-type {multi-agent systems robotics}
+2012-10-10 02:17:26 bookmark {Smart: multi-agent robotic system} {J AJ Builes, D AO Carranza, J FO Gomez} {4fdc2d46573ce541b6001037}

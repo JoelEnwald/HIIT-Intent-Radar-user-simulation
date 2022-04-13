@@ -1,0 +1,13 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"robotics" "2013-01-10 16:30:34" 0 1 0
+"applications of robotics" "2013-01-10 16:30:56" 2 4 0
+"robotics neural network" "2013-01-10 16:34:35" 3 4 0
+"robotics applications" "2013-01-10 16:38:25" 1 1 0
+"man-machine interaction" "2013-01-10 16:40:08" 0 1 0
+"man-machine interaction robotics" "2013-01-10 16:40:21" 1 4 0
+"robotics application overview" "2013-01-10 16:42:21" 5 5 0
+"robotics cooperation" "2013-01-10 16:44:51" 5 3 0
+"robotics" "2013-01-10 16:47:23" 0 1 0
+"robotics manufacture" "2013-01-10 16:48:40" 2 6 0
+"robotics manufacturing" "2013-01-10 16:51:09" 3 1 0
+"robotics overview" "2013-01-10 16:53:23" 1 1 0

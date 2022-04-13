@@ -1,0 +1,47 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-09 13:41:58 query-type {robotics}
+2012-10-09 13:43:16 bookmark {AI and robotics} {O M Evans} {4fc78f18573ce55d72000bcc}
+2012-10-09 13:43:25 bookmark {Effects of observation of robot-robot communication on human-robot communication} {T Kanda, H Ishiguro, T Ono, M Imai, R Nakatsu} {4fc78f18573ce55d72000baf}
+2012-10-09 13:44:43 bookmark {A climbing parallel robot} {R Aracil, R J Saltaren, O Reinoso} {4fc78fe8573ce55d72000da4}
+2012-10-09 13:45:01 query-type {walking robot}
+2012-10-09 13:45:15 bookmark {Control system of walking robot} {T Zielinska} {506ecd15573ce536a5000018}
+2012-10-09 13:46:16 bookmark {Design of a robot that walks in any direction} {H B Gurocak, J Peabody} {5074002b573ce5519c000acc}
+2012-10-09 13:46:22 bookmark {A Novel Biologically Inspired Tripod Walking Robot} {C H Liang, M Ceccarelli, G Carbone} {5074002b573ce5519c000acd}
+2012-10-09 13:47:25 query-type {legged robot}
+2012-10-09 13:48:10 bookmark {A control structure for the locomotion of a legged robot on difficult terrain} {E Celaya, J M Porta} {507400bb573ce5519c000b8d}
+2012-10-09 13:48:37 bookmark {Design and development of a legged rat robot for studying animal-robot interaction} {C Laschi, B Mazzolai, F Patane, V Mattoli, P Dario, H Ishii, M Ogura, S Kurisu, A Komura, A Takanishi} {5071dc21573ce54e280000bf}
+2012-10-09 13:48:51 bookmark {Legged robots - an overview} {J Liu, M Tan, X G Zhao} {4fc78f26573ce55d72000d1c}
+2012-10-09 13:50:08 query-type {robot control}
+2012-10-09 13:50:27 query-type {robot control review}
+2012-10-09 13:51:03 bookmark {Workload in Human-Robot Interaction: A Review of Manipulations and Outcomes} {Matthew S. Prewett, Kristin N. Saboe, Ryan C. Johnson, Michael D. Coovert, Linda R. Elliott} {4fdc2d84573ce541b6001094}
+2012-10-09 13:51:41 bookmark {Intelligent control for robotic and mechatronic systems - A review} {K Watanabe} {5074015f573ce5519c000c6b}
+2012-10-09 13:51:57 query-type {robot control}
+2012-10-09 13:52:07 bookmark {CONTROL PRINCIPLES OF ROBOTICS .1. DYNAMICS AND CONTROL OF ROBOTS} {C DESILVA} {506c073e573ce5296d00003d}
+2012-10-09 13:52:30 bookmark {Attention-based robot control} {S Kasderidis, J G Taylor} {4fe33840573ce557a5000170}
+2012-10-09 13:52:45 bookmark {TOWARD THE INTELLIGENT CONTROL OF ROBOTS} {F POURBOGHRAT} {5074015f573ce5519c000c3e}
+2012-10-09 13:52:57 bookmark {History of robot control research} {K Sasaki} {503dcde6573ce50a9d000503}
+2012-10-09 13:53:42 query-type {rehabilitation robotics}
+2012-10-09 13:54:02 bookmark {Human-centered rehabilitation robotics} {R Riener, M Frey, M Bernhardt, T Nef, G Colombo} {50740235573ce5519c000d0d}
+2012-10-09 13:54:18 bookmark {ROBOTICS IN NEURO-REHABILITATION} {L Pignolo} {4fc78fff573ce55d72000e4b}
+2012-10-09 13:54:43 query-type {neuro-rehabilitation robotics}
+2012-10-09 13:55:08 bookmark {Robotic applications in neuromotor rehabilitation} {H I Krebs, B T Volpe, M L Aisen, W Hening, S Adamovich, H Poizner, K Subrahmanyan, N Hogan} {4fc78f19573ce55d72000c33}
+2012-10-09 13:55:26 bookmark {Interactive robots for neuro-rehabilitation} {N Hogan, H I Krebs} {4fcdbf75573ce567e50006b3}
+2012-10-09 13:55:48 bookmark {Robot-assisted rehabilitation of hand function} {S Balasubramanian, J Klein, E Burdet} {50740235573ce5519c000d09}
+2012-10-09 13:56:30 query-type {robotics application}
+2012-10-09 13:57:09 bookmark {An application of artificial intelligence to medical robotics} {E Alessandri, A Gasparetto, R V Garcia, R M Bejar} {4fc78f19573ce55d72000c64}
+2012-10-09 13:58:16 query-type {industrial automation}
+2012-10-09 13:58:31 query-type {industrial automation robotics}
+2012-10-09 13:58:50 bookmark {Robots in production automation} {P Kopacek} {506c073e573ce5296d000032}
+2012-10-09 14:00:18 query-type {algorithms in robotics overview}
+2012-10-09 14:00:50 bookmark {Artificial neural network based robot control: An overview} {S M Prabhu, D P Garg} {5071de0f573ce54e2800010e}
+2012-10-09 14:01:08 query-type {reinforcement learning robotics}
+2012-10-09 14:01:22 bookmark {Reinforcement learning in the multi-robot domain} {M J Mataric} {4fc60404573ce558f3000819}
+2012-10-09 14:01:40 bookmark {A reinforcement learning algorithm in cooperative multi-robot domains} {F Fernandez, D Borrajo, L E Parker} {4fc60405573ce558f3000834}
+2012-10-09 14:02:04 query-type {reinforcement learning robotics kenji doya}
+2012-10-09 14:02:12 bookmark {Robust Reinforcement Learning} {Jun Morimoto, Kenji Doya} {4fd9bbb6573ce53540000054}
+2012-10-09 14:02:26 bookmark {Estimating Internal Variables and Paramters of a Learning Agent by a Particle Filter} {Kazuyuki Samejima, Kenji Doya, Yasumasa Ueda, Minoru Kimura} {5074042a573ce5519c000fb5}
+2012-10-09 14:03:21 bookmark {A Generalized Natural Actor-Critic Algorithm} {Tetsuro Morimura, Eiji Uchibe, Junichiro Yoshimoto, Kenji Doya} {5074042b573ce5519c000fb8}
+2012-10-09 14:03:46 bookmark {Adaptive Synchronization of Neural and Physical Oscillators} {Kenji Doya, Shuji Yoshizawa} {5074042b573ce5519c000fb9}
+2012-10-09 14:04:27 query-type {vision algorithms robotics}
+2012-10-09 14:05:41 bookmark {Computer vision algorithms for autonomous mobile robot map building and path planning} {S Meikle, R Yates, A Harris} {5072b9dc573ce54e280017a5}
+2012-10-09 14:05:57 bookmark {Search of steady-state genetic algorithms for vision-based mobile robots} {N Kubota, M Kanemaki} {507404b9573ce5519c000fca}

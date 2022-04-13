@@ -1,0 +1,11 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"Semantic Search" "2012-10-08 12:19:57" 4 1 0
+"Semantic Search techniques" "2012-10-08 12:22:58" 3 1 0
+"Semantic Search languages tools methods" "2012-10-08 12:31:40" 0 1 0
+"Semantic Search languages " "2012-10-08 12:32:38" 1 1 0
+"Semantic Search tools" "2012-10-08 12:35:19" 1 1 0
+"Semantic Search practical implementation" "2012-10-08 12:37:37" 1 1 0
+"Semantic Search results organizing" "2012-10-08 12:39:55" 5 1 0
+"Semantic web search technologies" "2012-10-08 12:44:47" 2 1 0
+"web technologies" "2012-10-08 12:46:02" 0 1 0
+"web technologies semantic search" "2012-10-08 12:46:40" 4 1 0

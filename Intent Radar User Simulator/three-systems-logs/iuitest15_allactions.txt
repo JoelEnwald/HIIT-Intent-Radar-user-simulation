@@ -1,0 +1,21 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-09 13:12:46 query-type {semantic search}
+2012-10-09 13:17:17 query-type {technique and methods used in semantic search}
+2012-10-09 13:17:48 query-type {techniques and methods used in semantic search}
+2012-10-09 13:18:22 query-type {techniques and methods used in semantic search in searching}
+2012-10-09 13:19:09 bookmark {An effective semantic search technique using ontology} {Jihyun Lee, Jun-Ki Min, Chin-Wan Chung} {4fc75c5d573ce55d720005e4}
+2012-10-09 13:22:02 bookmark {Peer-to-Peer Content Searching Method using Evaluation of Semantic Vectors} {Y Yamato, H Sunaga} {502e7045573ce57a280000d8}
+2012-10-09 13:27:37 bookmark {CLUSTERING WEB SEARCH RESULTS USING SEMANTIC INFORMATION} {H Wen, G S Huang, Z Li} {502e7045573ce57a280000c0}
+2012-10-09 13:30:01 bookmark {Model-Based Inversion Technique Using Element-Free Galerkin Method and State Space Search} {X Liu, Y M Deng, Z W Zeng, L Udpa, S S Udpa} {503488f6573ce57c9e0011c7}
+2012-10-09 13:30:33 bookmark {A hybrid approach for searching in the semantic web} {Cristiano Rocha, Daniel Schwabe, Marcus Poggi Aragao} {4fc75c5d573ce55d720005f2}
+2012-10-09 13:32:14 query-type {research areas for semantic search}
+2012-10-09 13:33:16 query-type {research areas of semantic search}
+2012-10-09 13:34:08 query-type {practical implementations of semantic search}
+2012-10-09 13:34:18 query-type {practical implementations of semantic search in research}
+2012-10-09 13:34:44 query-type {practical implementations of semantic search}
+2012-10-09 13:35:22 bookmark {Intelligent Search Machine with the Semantic Support} {S Dvorscak, K Machova} {502e7044573ce57a2800009f}
+2012-10-09 13:38:15 bookmark {Semantic Computing, Cloud Computing, and Semantic Search Engine} {P CY Sheu, S Wang, Q Wang, K Hao, R Paul} {502e7044573ce57a280000b7}
+2012-10-09 13:40:56 query-type {programming language for semantic search}
+2012-10-09 13:41:37 query-type {programming language used for implementing semantic search}
+2012-10-09 13:43:25 query-type {methods for implementing semantic search}
+2012-10-09 13:43:59 bookmark {Semantic WEB-Search developing by problem-oriented ontology means} {R Pasichnyk, A Sachenko} {502e7044573ce57a280000b4}

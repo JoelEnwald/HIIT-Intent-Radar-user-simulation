@@ -1,0 +1,3 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-09 14:22:00 query-type {robotics}
+2012-10-09 14:26:35 query-type {robotics algorithms}

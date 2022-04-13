@@ -1,0 +1,16 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-09 15:04:24 query-type {robotics}
+2012-10-09 15:05:22 bookmark {Entertainment robotics} {Manuela M. Veloso} {4fdc2d44573ce541b6000feb}
+2012-10-09 15:05:44 bookmark {Welding robots} {J N Pires, A Loureiro, T Godinho, P Ferreira, B Fernando, J Morgado} {4fc78f1a573ce55d72000cb1}
+2012-10-09 15:06:20 bookmark {The MATS robot} {C Balaguer, A Gimenez, A J Huete, A M Sabatini, M Topping, G Bolmsjo} {4fc78f19573ce55d72000c52}
+2012-10-09 15:07:21 query-type {robotics subfields}
+2012-10-09 15:07:36 bookmark {Is robot learning a new subfield? - The Robolearn-96 workshop} {H Hexmoor, L Meeden, R R Murphy} {5072baa7573ce54e28001810}
+2012-10-09 15:07:57 bookmark {Social robotic telepresence} {Silvia Coradeschi, Amy Loutfi, Annica Kristoffersson, Gabriella Cortellessa, Kerstin Severinson Eklundh} {4fc78f19573ce55d72000be5}
+2012-10-09 15:09:13 bookmark {Is robot learning a new subfield? - The Robolearn-96 workshop} {H Hexmoor, L Meeden, R R Murphy} {5072baa7573ce54e28001810}
+2012-10-09 15:09:24 query-type {robotics}
+2012-10-09 15:10:20 bookmark {Intelligent robotic systems - From a single robot to multiple robotic system} {T Fukuda, N Kubota} {506c073d573ce5296d00000d}
+2012-10-09 15:10:44 query-type {robotics algorithms}
+2012-10-09 15:12:30 query-type {common robotics algorithms}
+2012-10-09 15:13:36 bookmark {Path planning of robot using genetic annealing algorithm} {S H Piao, B R Hong} {5071e0db573ce54e280003aa}
+2012-10-09 15:14:40 bookmark {The Fly Algorithm for Robot Navigation} {R Montufar-Chaveznava, M Perez-Meza, I Caldelas} {5071e0db573ce54e280003a1}
+2012-10-09 15:15:26 bookmark {Fault-tolerant gathering algorithms for autonomous mobile robots} {Noa Agmon, David Peleg} {5071e0db573ce54e280003a3}

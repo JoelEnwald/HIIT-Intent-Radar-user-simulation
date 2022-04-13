@@ -1,0 +1,15 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-11 14:40:49 query-type {semantic search}
+2013-01-11 14:42:15 keyword-selection {[semantic search],stash,1.000000} 
+2013-01-11 14:43:14 keyword-selection {[semantic search engine],stash,1.000000} {[semantic search],stash,1.000000} 
+2013-01-11 14:43:32 query-type {semantic search}
+2013-01-11 14:45:35 keyword-selection {[information retrieval],stash,1.000000} 
+2013-01-11 14:49:49 keyword-selection {[document retrieval],stash,1.000000} 
+2013-01-11 14:49:56 bookmark {Enhancing semantic search using case-based modular ontology} {Nesrine Ben Mustapha, Hajer Baazaoui Zghal, Marie-Aude Aufaure, Henda Ben Ghezala} {4fc78e2f573ce55d72000a7c}
+2013-01-11 14:50:04 bookmark {On Variety of Semantic Search Systems and Their Evaluation Methods} {D Strasunskas, S Tomassen} {502e7044573ce57a280000b6}
+2013-01-11 14:51:34 keyword-selection {[information retrieval],underdocument,1.000000} 
+2013-01-11 14:51:45 keyword-selection {[web search],stash,1.000000} 
+2013-01-11 14:59:40 query-type {semantic search}
+2013-01-11 15:02:44 keyword-selection {[semantic search engine],stash,1.000000} 
+2013-01-11 15:03:45 keyword-selection {[ontology extraction],stash,1.000000} 
+2013-01-11 15:05:12 query-type {semantic search}

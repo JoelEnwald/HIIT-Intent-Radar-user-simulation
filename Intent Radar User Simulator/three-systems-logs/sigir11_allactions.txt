@@ -1,0 +1,32 @@
+ActionTimeStamp ActionType ActionDetails
+2013-01-09 15:48:36 query-type {robotics}
+2013-01-09 15:49:43 bookmark {Welding robots} {J N Pires, A Loureiro, T Godinho, P Ferreira, B Fernando, J Morgado} {4fc78f1a573ce55d72000cb1}
+2013-01-09 15:50:31 keyword-movement {[climbing robot],local,1.000000} 
+2013-01-09 15:51:00 bookmark {The Alicia(3) climbing robot} {D Longo, G Muscato} {4fdc2d44573ce541b6000fee}
+2013-01-09 15:51:51 bookmark {Therapeutic play with a storytelling robot} {Corinna Lathan, Jack Maxwell Vice, Michael Tracey, Catherine Plaisant, Allison Druin, Kris Edward, Jaime Montemayor} {4fe33840573ce557a500016d}
+2013-01-09 15:52:23 query-type {robotics subfield}
+2013-01-09 15:52:48 bookmark {Is robot learning a new subfield? - The Robolearn-96 workshop} {H Hexmoor, L Meeden, R R Murphy} {5072baa7573ce54e28001810}
+2013-01-09 15:54:44 keyword-movement {[discipline],local,1.000000} 
+2013-01-09 15:55:30 keyword-movement {[research methods],local,1.000000} 
+2013-01-09 15:56:15 query-type {robotics area}
+2013-01-09 15:56:50 keyword-movement {[telerobotics],local,1.000000} 
+2013-01-09 15:57:50 bookmark {Telerobotics: Through-the-internet teleoperation of the ABB IRB 2000 industrial robot} {A J Alvares, G C de, L FA Paulinyi, S CA Alfaro} {5031ec78573ce57c9e0003b6}
+2013-01-09 15:58:26 query-type {robotics subarea}
+2013-01-09 15:58:49 keyword-movement {[wireless local area networks],semilocal,0.000000} {[internet protocols],semilocal,0.053654} {[mobile robotics],semilocal,0.000000} {[industrialization],local,1.000000} {[telerobotics],semilocal,0.000000} 
+2013-01-09 16:00:30 bookmark {Robots give rides at Hanover fair} {A Kochan} {50337ff0573ce57c9e000fc3}
+2013-01-09 16:00:34 bookmark {Construction robotics} {T Bock} {4fc78f18573ce55d72000bb9}
+2013-01-09 16:00:39 bookmark {Industrialised building systems: reproduction before automation and robotics} {R B Richard} {50ed7799573ce5342e000464}
+2013-01-09 16:00:56 bookmark {Building industrialization: robotized assembly of modular products} {S Martinez, A Jardon, J M Navarro, P Gonzalez} {50ed7799573ce5342e000467}
+2013-01-09 16:01:13 query-type {robotics algorithm}
+2013-01-09 16:02:42 bookmark {Distributed algorithms for multi-robot systems} {James McLurkin} {5071e0db573ce54e280003a0}
+2013-01-09 16:02:55 bookmark {The Fly Algorithm for Robot Navigation} {R Montufar-Chaveznava, M Perez-Meza, I Caldelas} {5071e0db573ce54e280003a1}
+2013-01-09 16:02:56 bookmark {Quantum Robot: Structure, Algorithms and Applications} {Dao-Yi Dong, Chun-Lin Chen, Chen-Bin Zhang, Zong-Hai Chen} {4fdc2d45573ce541b6001014}
+2013-01-09 16:03:09 bookmark {A new adaptive learning algorithm for robot manipulator control} {A T Hasan, A MS Hamouda, N Ismail, H MAA Ai-Assadi} {4fd9f813573ce53bab000d40}
+2013-01-09 16:03:16 bookmark {Fault-tolerant gathering algorithms for autonomous mobile robots} {Noa Agmon, David Peleg} {5071e0db573ce54e280003a3}
+2013-01-09 16:05:11 bookmark {A MOBILE ROBOT EXPLORATION ALGORITHM} {A ZELINSKY} {5071e0db573ce54e280003a4}
+2013-01-09 16:05:26 bookmark {A comparison of reactive robot chemotaxis algorithms} {R A Russell, A Bab-Hadiashar, R L Shepherd, G G Wallace} {5071e0db573ce54e280003a5}
+2013-01-09 16:05:39 bookmark {A genetic algorithm for robot navigation} {Calaiselvy , F T Yong, L W Ping} {4fdb9549573ce541b6000a8e}
+2013-01-09 16:06:29 bookmark {A Self-stabilizing Marching Algorithm for a Group of Oblivious Robots} {Y Asahiro, S Fujita, I Suzuki, M Yamashita} {5071e0db573ce54e280003a6}
+2013-01-09 16:06:53 bookmark {Ann algorithm DMABR for robot group control} {J He, S X Guo} {5071e0db573ce54e280003a7}
+2013-01-09 16:08:17 bookmark {Autonomous Robotics Self-Localization using Genetic Algorithms} {F Gutierrez, J Atkinson} {5071e0db573ce54e280003b8}
+2013-01-09 16:08:45 bookmark {The robot systems movement optimization by genetic algorithms} {P Schreiber, P Tanuska} {5071e0db573ce54e280003b9}

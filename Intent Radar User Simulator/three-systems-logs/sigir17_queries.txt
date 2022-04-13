@@ -1,0 +1,10 @@
+QueryText QueryTimeStamp nBookmarksBetweenThisQueryAndTheNext nKeywordActionsBetweenThisQueryAndTheNext nSemilocalKeywordsBetweenThisQueryAndTheNext
+"subfields of robotics" "2013-01-11 11:35:12" 0 1 0
+"fields of robotics" "2013-01-11 11:38:16" 0 1 0
+"subfields of robotics" "2013-01-11 11:38:47" 0 2 1
+"what are the subfields of robotics" "2013-01-11 11:40:17" 7 6 4
+"appication areas of robotics" "2013-01-11 11:53:31" 2 1 0
+"robotics" "2013-01-11 11:57:54" 1 1 0
+"robotics, medical, clinic" "2013-01-11 11:59:30" 0 1 0
+"robotics in medical" "2013-01-11 12:00:50" 3 1 0
+"algorithms for robotics" "2013-01-11 12:02:26" 3 2 0

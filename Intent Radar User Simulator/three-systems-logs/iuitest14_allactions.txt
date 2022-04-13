@@ -1,0 +1,16 @@
+ActionTimeStamp ActionType ActionDetails
+2012-10-09 11:35:25 query-type {semantic search}
+2012-10-09 11:39:22 bookmark {Introduction to Semantic Search Engine} {J M Kassim, M Rahmany} {502e7044573ce57a2800009d}
+2012-10-09 11:42:54 bookmark {Semantic search} {R. Guha, Rob McCool, Eric Miller} {4f5efcd7573ce54d20000533}
+2012-10-09 11:45:55 bookmark {An enhanced model for searching in semantic portals} {Lei Zhang, Yong Yu, Jian Zhou, ChenXi Lin, Yin Yang} {4faba905573ce5256b0001b8}
+2012-10-09 11:56:35 bookmark {The mediamill semantic video search engine} {M Worring, C GM Snoek, O de Rooij, G P Nguyen, A WM Smeulders} {502e7044573ce57a280000a5}
+2012-10-09 11:57:24 bookmark {Intelligent Semantic Web Search Engines: A Brief Survey} {G. Madhu, Dr. A. Govardhan, Dr. T. V.} {4faba907573ce5256b0001db}
+2012-10-09 11:58:22 bookmark {Columbia University's semantic video search engine} {Shih-Fu Chang, Lyndon S. Kennedy, Eric Zavesky} {4fc75c5d573ce55d720005e5}
+2012-10-09 11:59:46 bookmark {Methodology and campaign design for the evaluation of semantic search tools} {Stuart N. Wrigley, Dorothee Reinhard, Khadija Elbedweihy, Abraham Bernstein, Fabio Ciravegna} {4faba907573ce5256b0001e3}
+2012-10-09 12:01:00 query-type {semantic search tools}
+2012-10-09 12:01:21 query-type {semantic search techniques}
+2012-10-09 12:03:14 query-type {semantic search }
+2012-10-09 12:03:31 bookmark {Semantic Web for Search} {J Gronski} {502e7044573ce57a2800009c}
+2012-10-09 12:04:22 bookmark {SemSearch'11 the 4th semantic search workshop} {Thanh Tran, Peter Mika, Haofen Wang, Marko Grobelnik} {4faba907573ce5256b0001d8}
+2012-10-09 12:05:27 bookmark {Towards semantic search} {R Baeza-Yates, M Ciaramita, P Mika, H Zaragoza} {502e7044573ce57a2800009e}
+2012-10-09 12:05:51 bookmark {The usability of semantic search tools: a review} {V Uren, Y G Lei, V Lopez, H M Liu, E Motta, M Giordanino} {4faba906573ce5256b0001c8}
