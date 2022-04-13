@@ -30,5 +30,3 @@ The results for a simulation are stored in a matrix.
 - time, in seconds
 
 Project for HIIT (Helsinki Institute for Information Technology) under supervisor Tuukka Ruotsalo.
-# HIIT-Intent-Radar-user-simulation
-# HIIT-Intent-Radar-user-simulation
